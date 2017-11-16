@@ -1,0 +1,7229 @@
+{
+	"data": {
+		"container_template": {
+			"code": 0,
+			"is_page": false
+		},
+		"latest_bought": {
+			"tag": "op0010",
+			"tag_name": "买过",
+			"tag_icon": "http://p1.meituan.net/aichequan/6544f95cd7826c383d54fa5c881919e61386.png",
+			"tag_sequence": 0,
+			"orderlist_his": []
+		},
+		"container_operation_source": {
+			"tag": "op0020",
+			"tag_name": "专场",
+			"tag_icon": "http://p1.meituan.net/aichequan/aa78dd5220590e0f2f44c8c9087de9171414.png",
+			"tag_sequence": 1,
+			"operation_source_list": [{
+				"scheme": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=270542823&wmpoiid=1658052&sputag=&activitytag=discount&sku_id=0",
+				"content": "",
+				"pic_url": "http://p0.meituan.net/xianfu/6b1c1207f16c83e045763e1f735449b664128.jpg",
+				"sequence": 0,
+				"type": 1
+			}, {
+				"scheme": "meituanwaimai://waimai.meituan.com/detail?buztype=0&spuid=270540966&wmpoiid=1658052&sputag=&activitytag=discount&sku_id=0",
+				"content": "",
+				"pic_url": "http://p1.meituan.net/xianfu/25584de27162d00226cf67671925106465970.jpg",
+				"sequence": 0,
+				"type": 1
+			}],
+			"poi_coupon_list": [{
+				"credit": 0.0,
+				"title": "商家代金券",
+				"get_button_content": "已领光",
+				"exclusive_share_description": "",
+				"status": 3,
+				"scheme": "",
+				"pic_url": ""
+			}]
+		},
+		"food_spu_tags": [{
+			"tag": "100",
+			"name": "热销",
+			"icon": "http://p1.meituan.net/aichequan/87f966955f693102d67daf2ec44b58411361.png",
+			"big_pic_url": "",
+			"current_page": 0,
+			"has_next_page": false,
+			"product_count": 0,
+			"type": 3,
+			"selected": 0,
+			"tag_description": "",
+			"description": "",
+			"sequence": 0,
+			"activity_tag": "",
+			"spus": [{
+				"id": 270542823,
+				"name": "10寸苏丹王黄金果肉榴莲比萨",
+				"min_price": 59.0,
+				"praise_num": 5,
+				"praise_content": "赞5",
+				"tread_num": 0,
+				"praise_num_new": 5,
+				"unit": "",
+				"description": "10寸苏丹王黄金果肉榴莲比萨",
+				"picture": "http://p1.meituan.net/wmproduct/030372335160999c291d54d9deedafa459934.jpg.webp",
+				"month_saled": 124,
+				"month_saled_content": "月售124",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294988422,
+					"spec": "",
+					"description": "10寸苏丹王黄金果肉榴莲比萨",
+					"picture": "http://p1.meituan.net/wmproduct/030372335160999c291d54d9deedafa459934.jpg.webp",
+					"price": 59.0,
+					"origin_price": 98.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "6.02折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "6.02折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "6.02折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "6.02折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270542826,
+				"name": "10寸新奥尔良烤鸡肉比萨",
+				"min_price": 48.0,
+				"praise_num": 2,
+				"praise_content": "赞2",
+				"tread_num": 0,
+				"praise_num_new": 2,
+				"unit": "",
+				"description": "10寸新奥尔良烤鸡肉比萨",
+				"picture": "http://p0.meituan.net/wmproduct/a590380ba5fdde3035c2a44cc12f394660706.jpg.webp",
+				"month_saled": 67,
+				"month_saled_content": "月售67",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294988425,
+					"spec": "",
+					"description": "10寸新奥尔良烤鸡肉比萨",
+					"picture": "http://p0.meituan.net/wmproduct/a590380ba5fdde3035c2a44cc12f394660706.jpg.webp",
+					"price": 48.0,
+					"origin_price": 68.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "7.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "7.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "7.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "7.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270501850,
+				"name": "10寸比萨添加双倍芝士",
+				"min_price": 6.0,
+				"praise_num": 3,
+				"praise_content": "赞3",
+				"tread_num": 0,
+				"praise_num_new": 3,
+				"unit": "",
+				"description": "比萨配合双倍芝士，可增加浓郁的口感和更好的拉丝效果。（芝士与比萨搭配食用，双倍芝士不可单点。）",
+				"picture": "http://p1.meituan.net/wmproduct/a20b88675628b86ed50d8395d4c83eab35254.jpg.webp",
+				"month_saled": 43,
+				"month_saled_content": "月售43",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294941931,
+					"spec": "",
+					"description": "比萨配合双倍芝士，可增加浓郁的口感和更好的拉丝效果。（芝士与比萨搭配食用，双倍芝士不可单点。）",
+					"picture": "http://p1.meituan.net/wmproduct/a20b88675628b86ed50d8395d4c83eab35254.jpg.webp",
+					"price": 6.0,
+					"origin_price": 6.0,
+					"box_num": 1.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558406",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270501831,
+				"name": "尊宝风情烤翅",
+				"min_price": 20.0,
+				"praise_num": 1,
+				"praise_content": "赞1",
+				"tread_num": 0,
+				"praise_num_new": 1,
+				"unit": "",
+				"description": "尊宝风情烤翅",
+				"picture": "http://p1.meituan.net/wmproduct/bfaa094ae542aabc96b27395ba1b434e58132.jpg.webp",
+				"month_saled": 42,
+				"month_saled_content": "月售42",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294941888,
+					"spec": "",
+					"description": "尊宝风情烤翅",
+					"picture": "http://p1.meituan.net/wmproduct/bfaa094ae542aabc96b27395ba1b434e58132.jpg.webp",
+					"price": 20.0,
+					"origin_price": 20.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558401",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 240674030,
+				"name": "劲爆鸡米花",
+				"min_price": 14.0,
+				"praise_num": 1,
+				"praise_content": "赞1",
+				"tread_num": 0,
+				"praise_num_new": 1,
+				"unit": "",
+				"description": "",
+				"picture": "http://p1.meituan.net/wmproduct/0851fa321258e927ac19c7f16fd9fbeb80942.jpg.webp",
+				"month_saled": 39,
+				"month_saled_content": "月售39",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 261867128,
+					"spec": "",
+					"description": "",
+					"picture": "http://p1.meituan.net/wmproduct/0851fa321258e927ac19c7f16fd9fbeb80942.jpg.webp",
+					"price": 14.0,
+					"origin_price": 14.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558401",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270501835,
+				"name": "黑椒牛柳局意面",
+				"min_price": 19.0,
+				"praise_num": 2,
+				"praise_content": "赞2",
+				"tread_num": 0,
+				"praise_num_new": 2,
+				"unit": "",
+				"description": "黑椒牛柳局意面",
+				"picture": "http://p0.meituan.net/wmproduct/71752ac23bca549cb65f49758b33456456545.jpg.webp",
+				"month_saled": 35,
+				"month_saled_content": "月售35",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294941896,
+					"spec": "",
+					"description": "黑椒牛柳局意面",
+					"picture": "http://p0.meituan.net/wmproduct/71752ac23bca549cb65f49758b33456456545.jpg.webp",
+					"price": 19.0,
+					"origin_price": 19.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558402",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270501791,
+				"name": "10寸超级豪华比萨",
+				"min_price": 48.0,
+				"praise_num": 1,
+				"praise_content": "赞1",
+				"tread_num": 0,
+				"praise_num_new": 1,
+				"unit": "",
+				"description": "10寸超级豪华比萨",
+				"picture": "http://p0.meituan.net/wmproduct/832997fce7e2fcc53f46f0c03567662f75008.jpg.webp",
+				"month_saled": 30,
+				"month_saled_content": "月售30",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294944213,
+					"spec": "",
+					"description": "10寸超级豪华比萨",
+					"picture": "http://p0.meituan.net/wmproduct/832997fce7e2fcc53f46f0c03567662f75008.jpg.webp",
+					"price": 48.0,
+					"origin_price": 68.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "7.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "7.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "7.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "7.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 240674034,
+				"name": "意大利肉酱面",
+				"min_price": 18.0,
+				"praise_num": 1,
+				"praise_content": "赞1",
+				"tread_num": 0,
+				"praise_num_new": 1,
+				"unit": "",
+				"description": "",
+				"picture": "http://p0.meituan.net/xianfu/b0b1f5cd89d3c1d9fe68efbdaaae40ea73512.jpg.webp",
+				"month_saled": 26,
+				"month_saled_content": "月售26",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 261867131,
+					"spec": "",
+					"description": "",
+					"picture": "http://p0.meituan.net/xianfu/b0b1f5cd89d3c1d9fe68efbdaaae40ea73512.jpg.webp",
+					"price": 18.0,
+					"origin_price": 18.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558402",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 419791237,
+				"name": "柠檬原香红茶",
+				"min_price": 16.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "柠檬原香红茶",
+				"picture": "http://p0.meituan.net/wmproduct/9d3df59b041ec256d0a80d116fd91cb230863.jpg.webp",
+				"month_saled": 16,
+				"month_saled_content": "月售16",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 458641011,
+					"spec": "",
+					"description": "柠檬原香红茶",
+					"picture": "http://p0.meituan.net/wmproduct/9d3df59b041ec256d0a80d116fd91cb230863.jpg.webp",
+					"price": 16.0,
+					"origin_price": 16.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558403",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270540966,
+				"name": "10寸超级苏丹王黄金榴莲比萨",
+				"min_price": 69.0,
+				"praise_num": 1,
+				"praise_content": "赞1",
+				"tread_num": 0,
+				"praise_num_new": 1,
+				"unit": "",
+				"description": "十寸超级苏丹王黄金果肉榴莲比萨，足足添加了30%的榴莲果肉。售价118元，现特惠价69元，立省49元。",
+				"picture": "http://p0.meituan.net/wmproduct/768a65e6d5852cb2e66e5af9bda71f03100863.jpg.webp",
+				"month_saled": 15,
+				"month_saled_content": "月售15",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294988424,
+					"spec": "",
+					"description": "十寸超级苏丹王黄金果肉榴莲比萨，足足添加了30%的榴莲果肉。售价118元，现特惠价69元，立省49元。",
+					"picture": "http://p0.meituan.net/wmproduct/768a65e6d5852cb2e66e5af9bda71f03100863.jpg.webp",
+					"price": 69.0,
+					"origin_price": 118.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "5.85折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "5.85折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "5.85折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "5.85折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}],
+			"tags": [],
+			"buzType": 0
+		}, {
+			"tag": "act17",
+			"name": "折扣",
+			"icon": "http://p0.meituan.net/aichequan/45662b4d1968fd75bff38de23f6d62641421.png",
+			"big_pic_url": "",
+			"current_page": 0,
+			"has_next_page": false,
+			"product_count": 35,
+			"type": 2,
+			"selected": 0,
+			"tag_description": "折扣商品",
+			"description": "超过限购份数可原价购买",
+			"sequence": 1,
+			"activity_tag": "discount",
+			"spus": [{
+				"id": 270501810,
+				"name": "12寸超级豪华比萨",
+				"min_price": 79.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "12寸超级豪华比萨",
+				"picture": "http://p0.meituan.net/wmproduct/400a2eb0bd8538c7b1dda36b4c45cd5e69344.jpg.webp",
+				"month_saled": 11,
+				"month_saled_content": "月售11",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294941870,
+					"spec": "",
+					"description": "12寸超级豪华比萨",
+					"picture": "http://p0.meituan.net/wmproduct/400a2eb0bd8538c7b1dda36b4c45cd5e69344.jpg.webp",
+					"price": 79.0,
+					"origin_price": 98.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "8.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "8.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558400",
+				"sequence": 0,
+				"promotion_info": "8.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "8.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270501812,
+				"name": "12寸海鲜比萨",
+				"min_price": 79.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "12寸海鲜比萨",
+				"picture": "http://p1.meituan.net/wmproduct/eea7a426f4fed25ab41241b1359bd42773859.jpg.webp",
+				"month_saled": 5,
+				"month_saled_content": "月售5",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294941873,
+					"spec": "",
+					"description": "12寸海鲜比萨",
+					"picture": "http://p1.meituan.net/wmproduct/eea7a426f4fed25ab41241b1359bd42773859.jpg.webp",
+					"price": 79.0,
+					"origin_price": 98.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "8.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "8.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558400",
+				"sequence": 0,
+				"promotion_info": "8.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "8.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270501815,
+				"name": "12寸新奥尔良烤鸡肉比萨",
+				"min_price": 79.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "12寸新奥尔良烤鸡肉比萨",
+				"picture": "http://p0.meituan.net/wmproduct/a590380ba5fdde3035c2a44cc12f394660706.jpg.webp",
+				"month_saled": 4,
+				"month_saled_content": "月售4",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294941875,
+					"spec": "",
+					"description": "12寸新奥尔良烤鸡肉比萨",
+					"picture": "http://p0.meituan.net/wmproduct/a590380ba5fdde3035c2a44cc12f394660706.jpg.webp",
+					"price": 79.0,
+					"origin_price": 98.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "8.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "8.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558400",
+				"sequence": 0,
+				"promotion_info": "8.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "8.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270500893,
+				"name": "12寸韩国烤肉比萨",
+				"min_price": 79.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "12寸韩国烤肉比萨",
+				"picture": "http://p1.meituan.net/wmproduct/738500d810762e315c9dd79628a3fc9572378.jpg.webp",
+				"month_saled": 2,
+				"month_saled_content": "月售2",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294941876,
+					"spec": "",
+					"description": "12寸韩国烤肉比萨",
+					"picture": "http://p1.meituan.net/wmproduct/738500d810762e315c9dd79628a3fc9572378.jpg.webp",
+					"price": 79.0,
+					"origin_price": 98.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "8.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "8.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558400",
+				"sequence": 0,
+				"promotion_info": "8.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "8.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270501817,
+				"name": "12寸蒲烧鳗鱼比萨",
+				"min_price": 79.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "12寸蒲烧鳗鱼比萨",
+				"picture": "http://p1.meituan.net/wmproduct/5c3fbd839574011dd8746d242af4253568427.jpg.webp",
+				"month_saled": 1,
+				"month_saled_content": "月售1",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294941877,
+					"spec": "",
+					"description": "12寸蒲烧鳗鱼比萨",
+					"picture": "http://p1.meituan.net/wmproduct/5c3fbd839574011dd8746d242af4253568427.jpg.webp",
+					"price": 79.0,
+					"origin_price": 98.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "8.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "8.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558400",
+				"sequence": 0,
+				"promotion_info": "8.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "8.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270500894,
+				"name": "12寸五香牛肉比萨",
+				"min_price": 75.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "12寸五香牛肉比萨",
+				"picture": "http://p0.meituan.net/wmproduct/3ae43e1509c412a4cceb01f2820442d086692.jpg.webp",
+				"month_saled": 1,
+				"month_saled_content": "月售1",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294944242,
+					"spec": "",
+					"description": "12寸五香牛肉比萨",
+					"picture": "http://p0.meituan.net/wmproduct/3ae43e1509c412a4cceb01f2820442d086692.jpg.webp",
+					"price": 75.0,
+					"origin_price": 93.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "8.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "8.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558400",
+				"sequence": 0,
+				"promotion_info": "8.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "8.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270500897,
+				"name": "12寸吞拿鱼比萨",
+				"min_price": 75.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "12寸吞拿鱼比萨",
+				"picture": "http://p0.meituan.net/wmproduct/fb48a1b5eb196a1c6c89241a8ceb649269843.jpg.webp",
+				"month_saled": 0,
+				"month_saled_content": "月售0",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294941880,
+					"spec": "",
+					"description": "12寸吞拿鱼比萨",
+					"picture": "http://p0.meituan.net/wmproduct/fb48a1b5eb196a1c6c89241a8ceb649269843.jpg.webp",
+					"price": 75.0,
+					"origin_price": 93.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "8.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "8.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558400",
+				"sequence": 0,
+				"promotion_info": "8.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "8.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270500895,
+				"name": "12寸香辣至尊比萨",
+				"min_price": 75.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "12寸香辣至尊比萨",
+				"picture": "http://p1.meituan.net/wmproduct/0013f74c2bef31ea0adf61109d14454e86009.jpg.webp",
+				"month_saled": 4,
+				"month_saled_content": "月售4",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294941879,
+					"spec": "",
+					"description": "12寸香辣至尊比萨",
+					"picture": "http://p1.meituan.net/wmproduct/0013f74c2bef31ea0adf61109d14454e86009.jpg.webp",
+					"price": 75.0,
+					"origin_price": 93.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "8.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "8.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558400",
+				"sequence": 0,
+				"promotion_info": "8.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "8.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270501819,
+				"name": "12寸咖喱牛肉比萨",
+				"min_price": 79.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "12寸咖喱牛肉比萨",
+				"picture": "http://p1.meituan.net/wmproduct/a8986653552c03218dc60c10dabd0c2c73505.jpg.webp",
+				"month_saled": 0,
+				"month_saled_content": "月售0",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294944240,
+					"spec": "",
+					"description": "12寸咖喱牛肉比萨",
+					"picture": "http://p1.meituan.net/wmproduct/a8986653552c03218dc60c10dabd0c2c73505.jpg.webp",
+					"price": 79.0,
+					"origin_price": 98.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "8.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "8.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558400",
+				"sequence": 0,
+				"promotion_info": "8.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "8.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270501821,
+				"name": "12寸墨西哥风情比萨",
+				"min_price": 75.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "12寸墨西哥风情比萨",
+				"picture": "http://p0.meituan.net/wmproduct/746e0359229aaf0afb375571efcd43cc76443.jpg.webp",
+				"month_saled": 0,
+				"month_saled_content": "月售0",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294944244,
+					"spec": "",
+					"description": "12寸墨西哥风情比萨",
+					"picture": "http://p0.meituan.net/wmproduct/746e0359229aaf0afb375571efcd43cc76443.jpg.webp",
+					"price": 75.0,
+					"origin_price": 93.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "8.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "8.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558400",
+				"sequence": 0,
+				"promotion_info": "8.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "8.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270501828,
+				"name": "12寸荤食什锦比萨",
+				"min_price": 75.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "12寸荤食什锦比萨",
+				"picture": "http://p1.meituan.net/wmproduct/bc584098754c0ee846d80a7554b6f81093554.jpg.webp",
+				"month_saled": 0,
+				"month_saled_content": "月售0",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294944252,
+					"spec": "",
+					"description": "12寸荤食什锦比萨",
+					"picture": "http://p1.meituan.net/wmproduct/bc584098754c0ee846d80a7554b6f81093554.jpg.webp",
+					"price": 75.0,
+					"origin_price": 93.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "8.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "8.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558400",
+				"sequence": 0,
+				"promotion_info": "8.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "8.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270501809,
+				"name": "12寸夏威夷比萨",
+				"min_price": 75.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "12寸夏威夷比萨",
+				"picture": "http://p1.meituan.net/wmproduct/45263d4e54bb411c8116f1e2dc0a6fd872470.jpg.webp",
+				"month_saled": 3,
+				"month_saled_content": "月售3",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294941868,
+					"spec": "",
+					"description": "12寸夏威夷比萨",
+					"picture": "http://p1.meituan.net/wmproduct/45263d4e54bb411c8116f1e2dc0a6fd872470.jpg.webp",
+					"price": 75.0,
+					"origin_price": 93.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "8.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "8.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558400",
+				"sequence": 0,
+				"promotion_info": "8.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "8.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270500898,
+				"name": "12寸水果什锦比萨",
+				"min_price": 75.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "12寸水果什锦比萨",
+				"picture": "http://p0.meituan.net/wmproduct/959455fa2304fae81c06f65b4b5e451555368.jpg.webp",
+				"month_saled": 0,
+				"month_saled_content": "月售0",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294941882,
+					"spec": "",
+					"description": "12寸水果什锦比萨",
+					"picture": "http://p0.meituan.net/wmproduct/959455fa2304fae81c06f65b4b5e451555368.jpg.webp",
+					"price": 75.0,
+					"origin_price": 93.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "8.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "8.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558400",
+				"sequence": 0,
+				"promotion_info": "8.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "8.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270501824,
+				"name": "12寸田园蔬菜比萨",
+				"min_price": 75.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "12寸田园蔬菜比萨",
+				"picture": "http://p0.meituan.net/wmproduct/6c18457f0cc835c7a4f3f76b215358ab66305.jpg.webp",
+				"month_saled": 1,
+				"month_saled_content": "月售1",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294941885,
+					"spec": "",
+					"description": "12寸田园蔬菜比萨",
+					"picture": "http://p0.meituan.net/wmproduct/6c18457f0cc835c7a4f3f76b215358ab66305.jpg.webp",
+					"price": 75.0,
+					"origin_price": 93.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "8.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "8.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558400",
+				"sequence": 0,
+				"promotion_info": "8.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "8.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270501825,
+				"name": "12寸道地美国比萨",
+				"min_price": 75.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "12寸道地美国比萨",
+				"picture": "http://p1.meituan.net/wmproduct/8bc1034da5993e0c6e9d90953d5dde9c77526.jpg.webp",
+				"month_saled": 0,
+				"month_saled_content": "月售0",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294944247,
+					"spec": "",
+					"description": "12寸道地美国比萨",
+					"picture": "http://p1.meituan.net/wmproduct/8bc1034da5993e0c6e9d90953d5dde9c77526.jpg.webp",
+					"price": 75.0,
+					"origin_price": 93.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "8.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "8.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558400",
+				"sequence": 0,
+				"promotion_info": "8.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "8.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270500902,
+				"name": "12寸和风照烧鸡比萨",
+				"min_price": 79.0,
+				"praise_num": 1,
+				"praise_content": "赞1",
+				"tread_num": 0,
+				"praise_num_new": 1,
+				"unit": "",
+				"description": "12寸和风照烧鸡比萨",
+				"picture": "http://p0.meituan.net/wmproduct/6454461f5bad614e19d629bc6f2937e775490.jpg.webp",
+				"month_saled": 1,
+				"month_saled_content": "月售1",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294944249,
+					"spec": "",
+					"description": "12寸和风照烧鸡比萨",
+					"picture": "http://p0.meituan.net/wmproduct/6454461f5bad614e19d629bc6f2937e775490.jpg.webp",
+					"price": 79.0,
+					"origin_price": 98.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "8.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "8.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558400",
+				"sequence": 0,
+				"promotion_info": "8.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "8.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270500889,
+				"name": "12寸苏丹王黄金果肉榴莲比萨",
+				"min_price": 119.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "12寸苏丹王黄金果肉榴莲比萨",
+				"picture": "http://p1.meituan.net/wmproduct/030372335160999c291d54d9deedafa459934.jpg.webp",
+				"month_saled": 2,
+				"month_saled_content": "月售2",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294944233,
+					"spec": "",
+					"description": "12寸苏丹王黄金果肉榴莲比萨",
+					"picture": "http://p1.meituan.net/wmproduct/030372335160999c291d54d9deedafa459934.jpg.webp",
+					"price": 119.0,
+					"origin_price": 148.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "8.04折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "8.04折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558400",
+				"sequence": 0,
+				"promotion_info": "8.04折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "8.04折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270542822,
+				"name": "10寸和风照烧鸡比萨",
+				"min_price": 48.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "10寸和风照烧鸡比萨",
+				"picture": "http://p1.meituan.net/wmproduct/20d50466e08d5c16b18601316076e0e775161.jpg.webp",
+				"month_saled": 2,
+				"month_saled_content": "月售2",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294987464,
+					"spec": "",
+					"description": "10寸和风照烧鸡比萨",
+					"picture": "http://p1.meituan.net/wmproduct/20d50466e08d5c16b18601316076e0e775161.jpg.webp",
+					"price": 48.0,
+					"origin_price": 68.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "7.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "7.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "7.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "7.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270540969,
+				"name": "10寸道地美国比萨",
+				"min_price": 48.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "10寸道地美国比萨",
+				"picture": "http://p0.meituan.net/wmproduct/6ccdd4687b5571b12e992efe151e023e77494.jpg.webp",
+				"month_saled": 0,
+				"month_saled_content": "月售0",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294987472,
+					"spec": "",
+					"description": "10寸道地美国比萨",
+					"picture": "http://p0.meituan.net/wmproduct/6ccdd4687b5571b12e992efe151e023e77494.jpg.webp",
+					"price": 48.0,
+					"origin_price": 64.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "7.5折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "7.5折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "7.5折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "7.5折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270542833,
+				"name": "10寸田园蔬菜比萨",
+				"min_price": 48.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "10寸田园蔬菜比萨",
+				"picture": "http://p0.meituan.net/wmproduct/6c18457f0cc835c7a4f3f76b215358ab66305.jpg.webp",
+				"month_saled": 1,
+				"month_saled_content": "月售1",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294988428,
+					"spec": "",
+					"description": "10寸田园蔬菜比萨",
+					"picture": "http://p0.meituan.net/wmproduct/6c18457f0cc835c7a4f3f76b215358ab66305.jpg.webp",
+					"price": 48.0,
+					"origin_price": 64.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "7.5折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "7.5折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "7.5折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "7.5折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270500882,
+				"name": "10寸水果什锦比萨",
+				"min_price": 48.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "10寸水果什锦比萨",
+				"picture": "http://p0.meituan.net/wmproduct/959455fa2304fae81c06f65b4b5e451555368.jpg.webp",
+				"month_saled": 6,
+				"month_saled_content": "月售6",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294944227,
+					"spec": "",
+					"description": "10寸水果什锦比萨",
+					"picture": "http://p0.meituan.net/wmproduct/959455fa2304fae81c06f65b4b5e451555368.jpg.webp",
+					"price": 48.0,
+					"origin_price": 64.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "7.5折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "7.5折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "7.5折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "7.5折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270542832,
+				"name": "10寸夏威夷比萨",
+				"min_price": 48.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "10寸夏威夷比萨",
+				"picture": "http://p1.meituan.net/wmproduct/45263d4e54bb411c8116f1e2dc0a6fd872470.jpg.webp",
+				"month_saled": 6,
+				"month_saled_content": "月售6",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294987471,
+					"spec": "",
+					"description": "10寸夏威夷比萨",
+					"picture": "http://p1.meituan.net/wmproduct/45263d4e54bb411c8116f1e2dc0a6fd872470.jpg.webp",
+					"price": 48.0,
+					"origin_price": 64.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "7.5折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "7.5折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "7.5折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "7.5折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270540970,
+				"name": "10寸荤食什锦比萨",
+				"min_price": 48.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "10寸荤食什锦比萨",
+				"picture": "http://p0.meituan.net/wmproduct/400a2eb0bd8538c7b1dda36b4c45cd5e69344.jpg.webp",
+				"month_saled": 2,
+				"month_saled_content": "月售2",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294987473,
+					"spec": "",
+					"description": "10寸荤食什锦比萨",
+					"picture": "http://p0.meituan.net/wmproduct/400a2eb0bd8538c7b1dda36b4c45cd5e69344.jpg.webp",
+					"price": 48.0,
+					"origin_price": 64.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "7.5折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "7.5折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "7.5折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "7.5折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270542831,
+				"name": "10寸墨西哥风情比萨",
+				"min_price": 48.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "10寸墨西哥风情比萨",
+				"picture": "http://p0.meituan.net/wmproduct/746e0359229aaf0afb375571efcd43cc76443.jpg.webp",
+				"month_saled": 1,
+				"month_saled_content": "月售1",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294987470,
+					"spec": "",
+					"description": "10寸墨西哥风情比萨",
+					"picture": "http://p0.meituan.net/wmproduct/746e0359229aaf0afb375571efcd43cc76443.jpg.webp",
+					"price": 48.0,
+					"origin_price": 64.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "7.5折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "7.5折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "7.5折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "7.5折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270542828,
+				"name": "10寸咖喱牛肉比萨",
+				"min_price": 48.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "10寸咖喱牛肉比萨",
+				"picture": "http://p1.meituan.net/wmproduct/a8986653552c03218dc60c10dabd0c2c73505.jpg.webp",
+				"month_saled": 1,
+				"month_saled_content": "月售1",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294988426,
+					"spec": "",
+					"description": "10寸咖喱牛肉比萨",
+					"picture": "http://p1.meituan.net/wmproduct/a8986653552c03218dc60c10dabd0c2c73505.jpg.webp",
+					"price": 48.0,
+					"origin_price": 68.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "7.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "7.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "7.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "7.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270542830,
+				"name": "10寸香辣至尊比萨",
+				"min_price": 48.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "10寸香辣至尊比萨",
+				"picture": "http://p1.meituan.net/wmproduct/0013f74c2bef31ea0adf61109d14454e86009.jpg.webp",
+				"month_saled": 3,
+				"month_saled_content": "月售3",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294987469,
+					"spec": "",
+					"description": "10寸香辣至尊比萨",
+					"picture": "http://p1.meituan.net/wmproduct/0013f74c2bef31ea0adf61109d14454e86009.jpg.webp",
+					"price": 48.0,
+					"origin_price": 64.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "7.5折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "7.5折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "7.5折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "7.5折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270540968,
+				"name": "10寸吞拿鱼比萨",
+				"min_price": 48.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "10寸吞拿鱼比萨",
+				"picture": "http://p0.meituan.net/wmproduct/fb48a1b5eb196a1c6c89241a8ceb649269843.jpg.webp",
+				"month_saled": 2,
+				"month_saled_content": "月售2",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294988427,
+					"spec": "",
+					"description": "10寸吞拿鱼比萨",
+					"picture": "http://p0.meituan.net/wmproduct/fb48a1b5eb196a1c6c89241a8ceb649269843.jpg.webp",
+					"price": 48.0,
+					"origin_price": 64.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "7.5折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "7.5折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "7.5折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "7.5折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270542829,
+				"name": "10寸五香牛肉比萨",
+				"min_price": 48.0,
+				"praise_num": 1,
+				"praise_content": "赞1",
+				"tread_num": 0,
+				"praise_num_new": 1,
+				"unit": "",
+				"description": "10寸五香牛肉比萨",
+				"picture": "http://p0.meituan.net/wmproduct/3ae43e1509c412a4cceb01f2820442d086692.jpg.webp",
+				"month_saled": 12,
+				"month_saled_content": "月售12",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294987468,
+					"spec": "",
+					"description": "10寸五香牛肉比萨",
+					"picture": "http://p0.meituan.net/wmproduct/3ae43e1509c412a4cceb01f2820442d086692.jpg.webp",
+					"price": 48.0,
+					"origin_price": 64.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "7.5折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "7.5折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "7.5折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "7.5折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270542827,
+				"name": "10寸蒲烧鳗鱼比萨",
+				"min_price": 48.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "10寸蒲烧鳗鱼比萨",
+				"picture": "http://p1.meituan.net/wmproduct/5c3fbd839574011dd8746d242af4253568427.jpg.webp",
+				"month_saled": 1,
+				"month_saled_content": "月售1",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294987467,
+					"spec": "",
+					"description": "10寸蒲烧鳗鱼比萨",
+					"picture": "http://p1.meituan.net/wmproduct/5c3fbd839574011dd8746d242af4253568427.jpg.webp",
+					"price": 48.0,
+					"origin_price": 68.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "7.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "7.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "7.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "7.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270540967,
+				"name": "10寸韩国烤肉比萨",
+				"min_price": 48.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "10寸韩国烤肉比萨",
+				"picture": "http://p0.meituan.net/wmproduct/38a2669afeba4698355e725e78ec0c9b93520.jpg.webp",
+				"month_saled": 2,
+				"month_saled_content": "月售2",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294987466,
+					"spec": "",
+					"description": "10寸韩国烤肉比萨",
+					"picture": "http://p0.meituan.net/wmproduct/38a2669afeba4698355e725e78ec0c9b93520.jpg.webp",
+					"price": 48.0,
+					"origin_price": 68.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "7.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "7.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "7.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "7.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270542826,
+				"name": "10寸新奥尔良烤鸡肉比萨",
+				"min_price": 48.0,
+				"praise_num": 2,
+				"praise_content": "赞2",
+				"tread_num": 0,
+				"praise_num_new": 2,
+				"unit": "",
+				"description": "10寸新奥尔良烤鸡肉比萨",
+				"picture": "http://p0.meituan.net/wmproduct/a590380ba5fdde3035c2a44cc12f394660706.jpg.webp",
+				"month_saled": 67,
+				"month_saled_content": "月售67",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294988425,
+					"spec": "",
+					"description": "10寸新奥尔良烤鸡肉比萨",
+					"picture": "http://p0.meituan.net/wmproduct/a590380ba5fdde3035c2a44cc12f394660706.jpg.webp",
+					"price": 48.0,
+					"origin_price": 68.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "7.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "7.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "7.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "7.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270542825,
+				"name": "10寸海鲜比萨",
+				"min_price": 48.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "10寸海鲜比萨",
+				"picture": "http://p1.meituan.net/wmproduct/eea7a426f4fed25ab41241b1359bd42773859.jpg.webp",
+				"month_saled": 10,
+				"month_saled_content": "月售10",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294987465,
+					"spec": "",
+					"description": "10寸海鲜比萨",
+					"picture": "http://p1.meituan.net/wmproduct/eea7a426f4fed25ab41241b1359bd42773859.jpg.webp",
+					"price": 48.0,
+					"origin_price": 68.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "7.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "7.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "7.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "7.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270501791,
+				"name": "10寸超级豪华比萨",
+				"min_price": 48.0,
+				"praise_num": 1,
+				"praise_content": "赞1",
+				"tread_num": 0,
+				"praise_num_new": 1,
+				"unit": "",
+				"description": "10寸超级豪华比萨",
+				"picture": "http://p0.meituan.net/wmproduct/832997fce7e2fcc53f46f0c03567662f75008.jpg.webp",
+				"month_saled": 30,
+				"month_saled_content": "月售30",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294944213,
+					"spec": "",
+					"description": "10寸超级豪华比萨",
+					"picture": "http://p0.meituan.net/wmproduct/832997fce7e2fcc53f46f0c03567662f75008.jpg.webp",
+					"price": 48.0,
+					"origin_price": 68.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "7.06折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "7.06折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "7.06折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "7.06折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270540966,
+				"name": "10寸超级苏丹王黄金榴莲比萨",
+				"min_price": 69.0,
+				"praise_num": 1,
+				"praise_content": "赞1",
+				"tread_num": 0,
+				"praise_num_new": 1,
+				"unit": "",
+				"description": "十寸超级苏丹王黄金果肉榴莲比萨，足足添加了30%的榴莲果肉。售价118元，现特惠价69元，立省49元。",
+				"picture": "http://p0.meituan.net/wmproduct/768a65e6d5852cb2e66e5af9bda71f03100863.jpg.webp",
+				"month_saled": 15,
+				"month_saled_content": "月售15",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294988424,
+					"spec": "",
+					"description": "十寸超级苏丹王黄金果肉榴莲比萨，足足添加了30%的榴莲果肉。售价118元，现特惠价69元，立省49元。",
+					"picture": "http://p0.meituan.net/wmproduct/768a65e6d5852cb2e66e5af9bda71f03100863.jpg.webp",
+					"price": 69.0,
+					"origin_price": 118.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "5.85折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "5.85折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "5.85折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "5.85折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270542823,
+				"name": "10寸苏丹王黄金果肉榴莲比萨",
+				"min_price": 59.0,
+				"praise_num": 5,
+				"praise_content": "赞5",
+				"tread_num": 0,
+				"praise_num_new": 5,
+				"unit": "",
+				"description": "10寸苏丹王黄金果肉榴莲比萨",
+				"picture": "http://p1.meituan.net/wmproduct/030372335160999c291d54d9deedafa459934.jpg.webp",
+				"month_saled": 124,
+				"month_saled_content": "月售124",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294988422,
+					"spec": "",
+					"description": "10寸苏丹王黄金果肉榴莲比萨",
+					"picture": "http://p1.meituan.net/wmproduct/030372335160999c291d54d9deedafa459934.jpg.webp",
+					"price": 59.0,
+					"origin_price": 98.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": -1,
+					"restrict": 3,
+					"promotion_info": "6.02折 限3份",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "6.02折 限3份",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558399",
+				"sequence": 0,
+				"promotion_info": "6.02折 限3份",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "6.02折 限3份",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "discount",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 1,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}],
+			"tags": [],
+			"buzType": 0
+		}, {
+			"tag": "30558401",
+			"name": "诱人小食",
+			"icon": "",
+			"big_pic_url": "",
+			"current_page": 0,
+			"has_next_page": true,
+			"product_count": 8,
+			"type": 1,
+			"selected": 0,
+			"tag_description": "",
+			"description": "",
+			"sequence": 2,
+			"activity_tag": "",
+			"spus": [{
+				"id": 270500905,
+				"name": "串烤鸡脆骨",
+				"min_price": 13.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "串烤鸡脆骨",
+				"picture": "http://p1.meituan.net/xianfu/2e11f30e050e9395c7cdea3f8253395d460977.jpg.webp",
+				"month_saled": 11,
+				"month_saled_content": "月售11",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294944254,
+					"spec": "",
+					"description": "串烤鸡脆骨",
+					"picture": "http://p1.meituan.net/xianfu/2e11f30e050e9395c7cdea3f8253395d460977.jpg.webp",
+					"price": 13.0,
+					"origin_price": 13.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558401",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270500907,
+				"name": "芝士局甜玉米",
+				"min_price": 14.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "芝士局甜玉米",
+				"picture": "http://p1.meituan.net/wmproduct/741aa570c603b9b23dd5f4635d71156e55733.jpg.webp",
+				"month_saled": 9,
+				"month_saled_content": "月售9",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294941887,
+					"spec": "",
+					"description": "芝士局甜玉米",
+					"picture": "http://p1.meituan.net/wmproduct/741aa570c603b9b23dd5f4635d71156e55733.jpg.webp",
+					"price": 14.0,
+					"origin_price": 14.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558401",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270501831,
+				"name": "尊宝风情烤翅",
+				"min_price": 20.0,
+				"praise_num": 1,
+				"praise_content": "赞1",
+				"tread_num": 0,
+				"praise_num_new": 1,
+				"unit": "",
+				"description": "尊宝风情烤翅",
+				"picture": "http://p1.meituan.net/wmproduct/bfaa094ae542aabc96b27395ba1b434e58132.jpg.webp",
+				"month_saled": 42,
+				"month_saled_content": "月售42",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294941888,
+					"spec": "",
+					"description": "尊宝风情烤翅",
+					"picture": "http://p1.meituan.net/wmproduct/bfaa094ae542aabc96b27395ba1b434e58132.jpg.webp",
+					"price": 20.0,
+					"origin_price": 20.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558401",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270500909,
+				"name": "新奥尔良烤翅",
+				"min_price": 20.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "新奥尔良烤翅",
+				"picture": "http://p1.meituan.net/wmproduct/cb8fd7a7498770e4d46bef9489d7c29875074.jpg.webp",
+				"month_saled": 11,
+				"month_saled_content": "月售11",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294941890,
+					"spec": "",
+					"description": "新奥尔良烤翅",
+					"picture": "http://p1.meituan.net/wmproduct/cb8fd7a7498770e4d46bef9489d7c29875074.jpg.webp",
+					"price": 20.0,
+					"origin_price": 20.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558401",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270500910,
+				"name": "美极局掌中宝",
+				"min_price": 19.0,
+				"praise_num": 1,
+				"praise_content": "赞1",
+				"tread_num": 0,
+				"praise_num_new": 1,
+				"unit": "",
+				"description": "美极局掌中宝",
+				"picture": "http://p1.meituan.net/wmproduct/c101cfdf34c02ec2b3de69b18dabd54884500.jpg.webp",
+				"month_saled": 12,
+				"month_saled_content": "月售12",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294941891,
+					"spec": "",
+					"description": "美极局掌中宝",
+					"picture": "http://p1.meituan.net/wmproduct/c101cfdf34c02ec2b3de69b18dabd54884500.jpg.webp",
+					"price": 19.0,
+					"origin_price": 19.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558401",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 267947379,
+				"name": "黄金蝴蝶虾",
+				"min_price": 19.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "",
+				"picture": "http://p0.meituan.net/wmproduct/9952233b220847da60054d87c8ade4b091877.jpg.webp",
+				"month_saled": 9,
+				"month_saled_content": "月售9",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 292110191,
+					"spec": "",
+					"description": "",
+					"picture": "http://p0.meituan.net/wmproduct/9952233b220847da60054d87c8ade4b091877.jpg.webp",
+					"price": 19.0,
+					"origin_price": 19.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558401",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 240674029,
+				"name": "尊宝秘制香鸡翼",
+				"min_price": 20.0,
+				"praise_num": 1,
+				"praise_content": "赞1",
+				"tread_num": 0,
+				"praise_num_new": 1,
+				"unit": "",
+				"description": "",
+				"picture": "http://p0.meituan.net/xianfu/2d877ceaf63fa0e8c0b7a60d19cec6cf260096.jpg.webp",
+				"month_saled": 6,
+				"month_saled_content": "月售6",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 261867126,
+					"spec": "",
+					"description": "",
+					"picture": "http://p0.meituan.net/xianfu/2d877ceaf63fa0e8c0b7a60d19cec6cf260096.jpg.webp",
+					"price": 20.0,
+					"origin_price": 20.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558401",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 240674030,
+				"name": "劲爆鸡米花",
+				"min_price": 14.0,
+				"praise_num": 1,
+				"praise_content": "赞1",
+				"tread_num": 0,
+				"praise_num_new": 1,
+				"unit": "",
+				"description": "",
+				"picture": "http://p1.meituan.net/wmproduct/0851fa321258e927ac19c7f16fd9fbeb80942.jpg.webp",
+				"month_saled": 39,
+				"month_saled_content": "月售39",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 261867128,
+					"spec": "",
+					"description": "",
+					"picture": "http://p1.meituan.net/wmproduct/0851fa321258e927ac19c7f16fd9fbeb80942.jpg.webp",
+					"price": 14.0,
+					"origin_price": 14.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558401",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}],
+			"tags": [],
+			"buzType": 0
+		}, {
+			"tag": "30558402",
+			"name": "意面",
+			"icon": "",
+			"big_pic_url": "",
+			"current_page": 0,
+			"has_next_page": true,
+			"product_count": 4,
+			"type": 1,
+			"selected": 0,
+			"tag_description": "",
+			"description": "",
+			"sequence": 3,
+			"activity_tag": "",
+			"spus": [{
+				"id": 270501835,
+				"name": "黑椒牛柳局意面",
+				"min_price": 19.0,
+				"praise_num": 2,
+				"praise_content": "赞2",
+				"tread_num": 0,
+				"praise_num_new": 2,
+				"unit": "",
+				"description": "黑椒牛柳局意面",
+				"picture": "http://p0.meituan.net/wmproduct/71752ac23bca549cb65f49758b33456456545.jpg.webp",
+				"month_saled": 35,
+				"month_saled_content": "月售35",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294941896,
+					"spec": "",
+					"description": "黑椒牛柳局意面",
+					"picture": "http://p0.meituan.net/wmproduct/71752ac23bca549cb65f49758b33456456545.jpg.webp",
+					"price": 19.0,
+					"origin_price": 19.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558402",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 240674031,
+				"name": "韩式鱿鱼大虾面",
+				"min_price": 19.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "",
+				"picture": "http://p0.meituan.net/wmproduct/b933cdcfa2079f490161642d0b9276c595289.jpg.webp",
+				"month_saled": 10,
+				"month_saled_content": "月售10",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 261867129,
+					"spec": "",
+					"description": "",
+					"picture": "http://p0.meituan.net/wmproduct/b933cdcfa2079f490161642d0b9276c595289.jpg.webp",
+					"price": 19.0,
+					"origin_price": 19.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558402",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 240674033,
+				"name": "黑椒培根蘑菇意面",
+				"min_price": 19.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "",
+				"picture": "http://p0.meituan.net/xianfu/3c363f98d77cb8ccb6a148d9cdb00857473088.jpg.webp",
+				"month_saled": 6,
+				"month_saled_content": "月售6",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 261867130,
+					"spec": "",
+					"description": "",
+					"picture": "http://p0.meituan.net/xianfu/3c363f98d77cb8ccb6a148d9cdb00857473088.jpg.webp",
+					"price": 19.0,
+					"origin_price": 19.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558402",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 240674034,
+				"name": "意大利肉酱面",
+				"min_price": 18.0,
+				"praise_num": 1,
+				"praise_content": "赞1",
+				"tread_num": 0,
+				"praise_num_new": 1,
+				"unit": "",
+				"description": "",
+				"picture": "http://p0.meituan.net/xianfu/b0b1f5cd89d3c1d9fe68efbdaaae40ea73512.jpg.webp",
+				"month_saled": 26,
+				"month_saled_content": "月售26",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 261867131,
+					"spec": "",
+					"description": "",
+					"picture": "http://p0.meituan.net/xianfu/b0b1f5cd89d3c1d9fe68efbdaaae40ea73512.jpg.webp",
+					"price": 18.0,
+					"origin_price": 18.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558402",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}],
+			"tags": [],
+			"buzType": 0
+		}, {
+			"tag": "30558403",
+			"name": "饮料",
+			"icon": "",
+			"big_pic_url": "",
+			"current_page": 0,
+			"has_next_page": true,
+			"product_count": 7,
+			"type": 1,
+			"selected": 0,
+			"tag_description": "",
+			"description": "",
+			"sequence": 4,
+			"activity_tag": "",
+			"spus": [{
+				"id": 419791234,
+				"name": "柠檬翡翠茉莉",
+				"min_price": 16.0,
+				"praise_num": 1,
+				"praise_content": "赞1",
+				"tread_num": 0,
+				"praise_num_new": 1,
+				"unit": "",
+				"description": "柠檬翡翠茉莉",
+				"picture": "http://p1.meituan.net/wmproduct/02518887dc08cd79e859c90839adc46c40817.jpg.webp",
+				"month_saled": 12,
+				"month_saled_content": "月售12",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 458641008,
+					"spec": "",
+					"description": "柠檬翡翠茉莉",
+					"picture": "http://p1.meituan.net/wmproduct/02518887dc08cd79e859c90839adc46c40817.jpg.webp",
+					"price": 16.0,
+					"origin_price": 16.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558403",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 419791236,
+				"name": "柠檬油切乌龙",
+				"min_price": 16.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "柠檬油切乌龙",
+				"picture": "http://p0.meituan.net/wmproduct/d2670a532528d29d441270a045956c8034015.jpg.webp",
+				"month_saled": 8,
+				"month_saled_content": "月售8",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 458641010,
+					"spec": "",
+					"description": "柠檬油切乌龙",
+					"picture": "http://p0.meituan.net/wmproduct/d2670a532528d29d441270a045956c8034015.jpg.webp",
+					"price": 16.0,
+					"origin_price": 16.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558403",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 419791237,
+				"name": "柠檬原香红茶",
+				"min_price": 16.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "柠檬原香红茶",
+				"picture": "http://p0.meituan.net/wmproduct/9d3df59b041ec256d0a80d116fd91cb230863.jpg.webp",
+				"month_saled": 16,
+				"month_saled_content": "月售16",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 458641011,
+					"spec": "",
+					"description": "柠檬原香红茶",
+					"picture": "http://p0.meituan.net/wmproduct/9d3df59b041ec256d0a80d116fd91cb230863.jpg.webp",
+					"price": 16.0,
+					"origin_price": 16.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558403",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270501839,
+				"name": "酷儿橙汁",
+				"min_price": 4.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "酷儿橙汁",
+				"picture": "http://p1.meituan.net/xianfu/65918fa6fd1eae00b81063556948a233257920.jpg.webp",
+				"month_saled": 3,
+				"month_saled_content": "月售3",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294944264,
+					"spec": "",
+					"description": "酷儿橙汁",
+					"picture": "http://p1.meituan.net/xianfu/65918fa6fd1eae00b81063556948a233257920.jpg.webp",
+					"price": 4.0,
+					"origin_price": 4.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558403",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270501841,
+				"name": "听装可乐",
+				"min_price": 4.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "听装可乐",
+				"picture": "http://p1.meituan.net/xianfu/0a77771005a8a6f480512e400d1b292d194560.jpg.webp",
+				"month_saled": 13,
+				"month_saled_content": "月售13",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294944265,
+					"spec": "",
+					"description": "听装可乐",
+					"picture": "http://p1.meituan.net/xianfu/0a77771005a8a6f480512e400d1b292d194560.jpg.webp",
+					"price": 4.0,
+					"origin_price": 4.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558403",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270500919,
+				"name": "大雪碧1.25L",
+				"min_price": 9.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "大雪碧1.25L",
+				"picture": "http://p0.meituan.net/wmproduct/cc6d822d830c1cd74ea79f93f1ef771919931.jpg.webp",
+				"month_saled": 1,
+				"month_saled_content": "月售1",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294941900,
+					"spec": "",
+					"description": "大雪碧1.25L",
+					"picture": "http://p0.meituan.net/wmproduct/cc6d822d830c1cd74ea79f93f1ef771919931.jpg.webp",
+					"price": 9.0,
+					"origin_price": 9.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558403",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270500921,
+				"name": "大可乐1.25L",
+				"min_price": 9.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "大可乐1.25L",
+				"picture": "http://p0.meituan.net/wmproduct/cd8ff5a3a7704fd067b8c846f5f7ca6715341.jpg.webp",
+				"month_saled": 6,
+				"month_saled_content": "月售6",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294944267,
+					"spec": "",
+					"description": "大可乐1.25L",
+					"picture": "http://p0.meituan.net/wmproduct/cd8ff5a3a7704fd067b8c846f5f7ca6715341.jpg.webp",
+					"price": 9.0,
+					"origin_price": 9.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558403",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}],
+			"tags": [],
+			"buzType": 0
+		}, {
+			"tag": "30558404",
+			"name": "特价套餐",
+			"icon": "",
+			"big_pic_url": "",
+			"current_page": 0,
+			"has_next_page": true,
+			"product_count": 8,
+			"type": 1,
+			"selected": 0,
+			"tag_description": "",
+			"description": "",
+			"sequence": 5,
+			"activity_tag": "",
+			"spus": [{
+				"id": 408664914,
+				"name": "特价超值实惠3-4人套餐（其他）",
+				"min_price": 93.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+意大利肉酱面1份+美极焗掌中宝1份+蝴蝶虾1份+1.25L大可乐1瓶",
+				"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+				"month_saled": 14,
+				"month_saled_content": "月售14",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 446666531,
+					"spec": "10寸超级豪华比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+意大利肉酱面1份+美极焗掌中宝1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 93.0,
+					"origin_price": 93.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446666532,
+					"spec": "10寸蒲烧鳗鱼比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+意大利肉酱面1份+美极焗掌中宝1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 93.0,
+					"origin_price": 93.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446666533,
+					"spec": "10寸五香牛肉比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+意大利肉酱面1份+美极焗掌中宝1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 93.0,
+					"origin_price": 93.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446664971,
+					"spec": "10寸海鲜比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+意大利肉酱面1份+美极焗掌中宝1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 93.0,
+					"origin_price": 93.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446664972,
+					"spec": "10寸新奥尔良烤鸡肉",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+意大利肉酱面1份+美极焗掌中宝1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 93.0,
+					"origin_price": 93.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446666534,
+					"spec": "10寸韩国烤肉比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+意大利肉酱面1份+美极焗掌中宝1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 93.0,
+					"origin_price": 93.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446664973,
+					"spec": "10寸咖喱牛肉比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+意大利肉酱面1份+美极焗掌中宝1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 93.0,
+					"origin_price": 93.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446664974,
+					"spec": "10寸香辣至尊比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+意大利肉酱面1份+美极焗掌中宝1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 93.0,
+					"origin_price": 93.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446666535,
+					"spec": "10寸墨西哥风情比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+意大利肉酱面1份+美极焗掌中宝1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 93.0,
+					"origin_price": 93.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446666536,
+					"spec": "10寸吞拿鱼比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+意大利肉酱面1份+美极焗掌中宝1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 93.0,
+					"origin_price": 93.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558404",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 408664915,
+				"name": "特价超值实惠3-4人套餐（榴莲）",
+				"min_price": 105.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "10寸榴莲比萨1份+意大利肉酱面1份+美极焗掌中宝1份+蝴蝶虾1份+1.25L大可乐1瓶",
+				"picture": "http://p0.meituan.net/xianfu/e14f8af85fe491fbc71ea21e7dfc743943008.jpg.webp",
+				"month_saled": 4,
+				"month_saled_content": "月售4",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 446666537,
+					"spec": "",
+					"description": "10寸榴莲比萨1份+意大利肉酱面1份+美极焗掌中宝1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/e14f8af85fe491fbc71ea21e7dfc743943008.jpg.webp",
+					"price": 105.0,
+					"origin_price": 105.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558404",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 408667590,
+				"name": "特价缤纷2-3人套餐（其他）",
+				"min_price": 84.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注中）+劲爆鸡米花1份+美极焗掌中宝1份+1.25L大可乐1瓶",
+				"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+				"month_saled": 1,
+				"month_saled_content": "月售1",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 446664976,
+					"spec": "10寸超级豪华比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注中）+劲爆鸡米花1份+美极焗掌中宝1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 84.0,
+					"origin_price": 84.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446666539,
+					"spec": "10寸新奥尔良烤鸡肉",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注中）+劲爆鸡米花1份+美极焗掌中宝1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 84.0,
+					"origin_price": 84.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446666540,
+					"spec": "10寸韩国烤肉比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注中）+劲爆鸡米花1份+美极焗掌中宝1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 84.0,
+					"origin_price": 84.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446664977,
+					"spec": "10寸蒲烧鳗鱼比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注中）+劲爆鸡米花1份+美极焗掌中宝1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 84.0,
+					"origin_price": 84.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446664978,
+					"spec": "10寸墨西哥风情比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注中）+劲爆鸡米花1份+美极焗掌中宝1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 84.0,
+					"origin_price": 84.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446666541,
+					"spec": "10寸海鲜比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注中）+劲爆鸡米花1份+美极焗掌中宝1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 84.0,
+					"origin_price": 84.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446664979,
+					"spec": "10寸咖喱牛肉比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注中）+劲爆鸡米花1份+美极焗掌中宝1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 84.0,
+					"origin_price": 84.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446666542,
+					"spec": "10寸五香牛肉比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注中）+劲爆鸡米花1份+美极焗掌中宝1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 84.0,
+					"origin_price": 84.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446664980,
+					"spec": "10寸香辣至尊比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注中）+劲爆鸡米花1份+美极焗掌中宝1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 84.0,
+					"origin_price": 84.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446666543,
+					"spec": "10寸吞拿鱼比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注中）+劲爆鸡米花1份+美极焗掌中宝1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 84.0,
+					"origin_price": 84.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558404",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 408664917,
+				"name": "特价缤纷2-3人套餐（榴莲）",
+				"min_price": 96.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "10寸榴莲比萨1份+劲爆鸡米花1份+美极焗掌中宝1份+1.25L大可乐1瓶",
+				"picture": "http://p0.meituan.net/xianfu/e14f8af85fe491fbc71ea21e7dfc743943008.jpg.webp",
+				"month_saled": 1,
+				"month_saled_content": "月售1",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 446664981,
+					"spec": "",
+					"description": "10寸榴莲比萨1份+劲爆鸡米花1份+美极焗掌中宝1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/e14f8af85fe491fbc71ea21e7dfc743943008.jpg.webp",
+					"price": 96.0,
+					"origin_price": 96.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558404",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 408664918,
+				"name": "特价精选双人套餐（其他）",
+				"min_price": 66.0,
+				"praise_num": 1,
+				"praise_content": "赞1",
+				"tread_num": 0,
+				"praise_num_new": 1,
+				"unit": "",
+				"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+劲爆鸡米花1份+1.25L大可乐1瓶",
+				"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+				"month_saled": 6,
+				"month_saled_content": "月售6",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 446666544,
+					"spec": "10寸超级豪华比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+劲爆鸡米花1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 66.0,
+					"origin_price": 66.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446664982,
+					"spec": "10寸海鲜比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+劲爆鸡米花1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 66.0,
+					"origin_price": 66.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446666545,
+					"spec": "10寸五香牛肉比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+劲爆鸡米花1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 66.0,
+					"origin_price": 66.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446664983,
+					"spec": "10寸香辣至尊比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+劲爆鸡米花1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 66.0,
+					"origin_price": 66.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446664984,
+					"spec": "10寸墨西哥风情比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+劲爆鸡米花1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 66.0,
+					"origin_price": 66.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446664985,
+					"spec": "10寸吞拿鱼比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+劲爆鸡米花1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 66.0,
+					"origin_price": 66.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446666546,
+					"spec": "10寸新奥尔良烤鸡肉",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+劲爆鸡米花1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 66.0,
+					"origin_price": 66.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446664986,
+					"spec": "10寸韩国烤肉比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+劲爆鸡米花1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 66.0,
+					"origin_price": 66.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446666547,
+					"spec": "10寸蒲烧鳗鱼比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+劲爆鸡米花1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 66.0,
+					"origin_price": 66.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446664987,
+					"spec": "10寸咖喱牛肉比萨",
+					"description": "除榴莲比萨外任意10寸比萨1份（口味请写在备注内）+劲爆鸡米花1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 66.0,
+					"origin_price": 66.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558404",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 408667591,
+				"name": "特价精选双人套餐（榴莲）",
+				"min_price": 78.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "10寸榴莲披萨1份+劲爆鸡米花1份+1.25L大可乐1瓶",
+				"picture": "http://p0.meituan.net/xianfu/e14f8af85fe491fbc71ea21e7dfc743943008.jpg.webp",
+				"month_saled": 3,
+				"month_saled_content": "月售3",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 446664988,
+					"spec": "",
+					"description": "10寸榴莲披萨1份+劲爆鸡米花1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/e14f8af85fe491fbc71ea21e7dfc743943008.jpg.webp",
+					"price": 78.0,
+					"origin_price": 78.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558404",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 408667592,
+				"name": "特价豪华3-4人套餐（其他）",
+				"min_price": 97.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "除榴莲比萨外任意12寸披萨1份（口味请写在备注内）+风情烤翅1份+蝴蝶虾1份+1.25L大可乐1瓶",
+				"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+				"month_saled": 12,
+				"month_saled_content": "月售12",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 446664989,
+					"spec": "12寸超级豪华比萨",
+					"description": "除榴莲比萨外任意12寸披萨1份（口味请写在备注内）+风情烤翅1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 97.0,
+					"origin_price": 97.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446666548,
+					"spec": "12寸海鲜比萨",
+					"description": "除榴莲比萨外任意12寸披萨1份（口味请写在备注内）+风情烤翅1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 97.0,
+					"origin_price": 97.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446666549,
+					"spec": "12寸韩国烤肉比萨",
+					"description": "除榴莲比萨外任意12寸披萨1份（口味请写在备注内）+风情烤翅1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 97.0,
+					"origin_price": 97.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446664990,
+					"spec": "12寸咖喱牛肉比萨",
+					"description": "除榴莲比萨外任意12寸披萨1份（口味请写在备注内）+风情烤翅1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 97.0,
+					"origin_price": 97.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446664991,
+					"spec": "12寸五香牛肉比萨",
+					"description": "除榴莲比萨外任意12寸披萨1份（口味请写在备注内）+风情烤翅1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 97.0,
+					"origin_price": 97.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446666550,
+					"spec": "12寸香辣至尊比萨",
+					"description": "除榴莲比萨外任意12寸披萨1份（口味请写在备注内）+风情烤翅1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 97.0,
+					"origin_price": 97.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446666551,
+					"spec": "12寸新奥尔良烤鸡肉",
+					"description": "除榴莲比萨外任意12寸披萨1份（口味请写在备注内）+风情烤翅1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 97.0,
+					"origin_price": 97.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446664992,
+					"spec": "12寸蒲烧鳗鱼比萨",
+					"description": "除榴莲比萨外任意12寸披萨1份（口味请写在备注内）+风情烤翅1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 97.0,
+					"origin_price": 97.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446666552,
+					"spec": "12寸墨西哥风情比萨",
+					"description": "除榴莲比萨外任意12寸披萨1份（口味请写在备注内）+风情烤翅1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 97.0,
+					"origin_price": 97.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}, {
+					"id": 446666553,
+					"spec": "12寸吞拿鱼比萨",
+					"description": "除榴莲比萨外任意12寸披萨1份（口味请写在备注内）+风情烤翅1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/014d11a2ae1c5641131c52a7a5d508db16384.jpg.webp",
+					"price": 97.0,
+					"origin_price": 97.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558404",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 408667593,
+				"name": "特价豪华3-4人套餐（榴莲）",
+				"min_price": 115.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "12寸榴莲披萨1份+风情烤翅1份+蝴蝶虾1份+1.25L大可乐1瓶",
+				"picture": "http://p0.meituan.net/xianfu/e14f8af85fe491fbc71ea21e7dfc743943008.jpg.webp",
+				"month_saled": 5,
+				"month_saled_content": "月售5",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 446664993,
+					"spec": "",
+					"description": "12寸榴莲披萨1份+风情烤翅1份+蝴蝶虾1份+1.25L大可乐1瓶",
+					"picture": "http://p0.meituan.net/xianfu/e14f8af85fe491fbc71ea21e7dfc743943008.jpg.webp",
+					"price": 115.0,
+					"origin_price": 115.0,
+					"box_num": 1.0,
+					"box_price": 1.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558404",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}],
+			"tags": [],
+			"buzType": 0
+		}, {
+			"tag": "30558406",
+			"name": "补加双倍芝士",
+			"icon": "",
+			"big_pic_url": "",
+			"current_page": 0,
+			"has_next_page": true,
+			"product_count": 2,
+			"type": 1,
+			"selected": 0,
+			"tag_description": "",
+			"description": "",
+			"sequence": 6,
+			"activity_tag": "",
+			"spus": [{
+				"id": 270500929,
+				"name": "12寸比萨添加双倍芝士",
+				"min_price": 12.0,
+				"praise_num": 0,
+				"praise_content": "赞0",
+				"tread_num": 0,
+				"praise_num_new": 0,
+				"unit": "",
+				"description": "比萨配合双倍芝士，可增加浓郁的口感和更好的拉丝效果。（芝士与比萨搭配食用，双倍芝士不可单点。）",
+				"picture": "http://p0.meituan.net/wmproduct/a8de97391480c4743081afadf03b720d35366.jpg.webp",
+				"month_saled": 5,
+				"month_saled_content": "月售5",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294944290,
+					"spec": "",
+					"description": "比萨配合双倍芝士，可增加浓郁的口感和更好的拉丝效果。（芝士与比萨搭配食用，双倍芝士不可单点。）",
+					"picture": "http://p0.meituan.net/wmproduct/a8de97391480c4743081afadf03b720d35366.jpg.webp",
+					"price": 12.0,
+					"origin_price": 12.0,
+					"box_num": 0.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558406",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}, {
+				"id": 270501850,
+				"name": "10寸比萨添加双倍芝士",
+				"min_price": 6.0,
+				"praise_num": 3,
+				"praise_content": "赞3",
+				"tread_num": 0,
+				"praise_num_new": 3,
+				"unit": "",
+				"description": "比萨配合双倍芝士，可增加浓郁的口感和更好的拉丝效果。（芝士与比萨搭配食用，双倍芝士不可单点。）",
+				"picture": "http://p1.meituan.net/wmproduct/a20b88675628b86ed50d8395d4c83eab35254.jpg.webp",
+				"month_saled": 43,
+				"month_saled_content": "月售43",
+				"status": 0,
+				"status_description": "",
+				"status_remind_list": [],
+				"attrs": [],
+				"sku_label": "规格",
+				"skus": [{
+					"id": 294941931,
+					"spec": "",
+					"description": "比萨配合双倍芝士，可增加浓郁的口感和更好的拉丝效果。（芝士与比萨搭配食用，双倍芝士不可单点。）",
+					"picture": "http://p1.meituan.net/wmproduct/a20b88675628b86ed50d8395d4c83eab35254.jpg.webp",
+					"price": 6.0,
+					"origin_price": 6.0,
+					"box_num": 1.0,
+					"box_price": 0.0,
+					"min_order_count": 1,
+					"status": 0,
+					"stock": 0,
+					"real_stock": -1,
+					"activity_stock": 0,
+					"restrict": 0,
+					"promotion_info": "",
+					"promotion": {
+						"label_pic": "",
+						"promotion_text": "",
+						"sku_info_color": "",
+						"width": 0,
+						"height": 0
+					}
+				}],
+				"tag": "30558406",
+				"sequence": 0,
+				"promotion_info": "",
+				"promotion": {
+					"label_pic": "",
+					"promotion_text": "",
+					"sku_info_color": "",
+					"width": 0,
+					"height": 0
+				},
+				"activity_tag": "",
+				"share_tip": {
+					"channels": [],
+					"description": "",
+					"description_icon": "",
+					"share_button_icon": "",
+					"activity_id": 0,
+					"share_info": {
+						"icon": "",
+						"title": "",
+						"content": "",
+						"url": "",
+						"weixin_url": ""
+					}
+				},
+				"activity_type": 0,
+				"activity_policy": {
+					"discount_by_count": {
+						"count": 0,
+						"discount": 1.0
+					}
+				},
+				"friends_praise_content": "",
+				"friends_nickname_praise_content": "",
+				"product_label_picture": "",
+				"product_label_picture_list": [],
+				"log_field": {
+					"product_label_type_list": [],
+					"recommend_label_type": 0
+				},
+				"label_text": ""
+			}],
+			"tags": [],
+			"buzType": 0
+		}],
+		"poi_info": {
+			"id": 1658052,
+			"name": "尊宝比萨（金地格林店）",
+			"status": 1,
+			"shipping_time": "09:00-21:50",
+			"shipping_fee": 5.0,
+			"avg_delivery_time": 42,
+			"min_price": 30.0,
+			"bulletin": "亲爱的顾客朋友们：\n 本店将于1月26日-1月31日春节休假，休假期间将闭店不对外开放，于2月1日-2月11日营业时间为10:30—20：30，2月12日开始恢复正常营业时间，由此给您带来的不便，敬请谅解！\n 感谢您一路以来对本店的支持，预祝各位朋友新年快乐、鸡年大吉！",
+			"discounts2": [{
+				"id": 1,
+				"type": 4,
+				"info": "新用户立减15元,首次使用银行卡支付最高再减3元",
+				"icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+				"use_icon_from_server": 1,
+				"display_code": 2,
+				"sequence": 3
+			}, {
+				"id": 17,
+				"type": 19,
+				"info": "折扣商品5.85折起",
+				"icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+				"use_icon_from_server": 1,
+				"display_code": 2,
+				"sequence": 4
+			}],
+			"app_delivery_tip": "由广东立创软件提供外卖和配送服务",
+			"support_pay": 1,
+			"invoice_support": 1,
+			"is_favorite": 0,
+			"can_use_coupon": 1,
+			"remind_infos": [],
+			"buz_type": 0,
+			"buz_code": 0,
+			"wm_poi_score": 4.8,
+			"poi_back_pic_url": "http://p1.meituan.net/aichequan/18d4ac3b3b99338d06f409c9ef43e7aa214794.png.webp",
+			"pic_url": "http://p0.meituan.net/xianfu/e02898a6d72eababb1903f678cc50c4f5243.jpeg.webp",
+			"delivery_type": 0,
+			"shipping_fee_tip": "配送 ¥5",
+			"min_price_tip": "起送 ¥30",
+			"delivery_time_tip": "42分钟",
+			"discount_restrict": 0,
+			"restrict_toast": "",
+			"share_tip": {
+				"channels": [2, 1, 4],
+				"description": "商家配送范围有限，建议分享给您附近的朋友",
+				"description_icon": "",
+				"share_button_icon": "",
+				"activity_id": 0,
+				"share_info": {
+					"icon": "http://p0.meituan.net/xianfu/e02898a6d72eababb1903f678cc50c4f5243.jpeg",
+					"title": "尊宝比萨（金地格林店）",
+					"content": "美好的东西只想与你一起分享。美团外卖尊宝比萨（金地格林店）",
+					"url": "http://i.waimai.meituan.com/external/poi/544456813640549?utm_source=5913&amp;wmi_from=cpoiinfo&amp;user_id=0",
+					"weixin_url": "pages/external/poi?poi_id=544456813640549&user_id=0&utm_source=7004"
+				}
+			},
+			"has_poi_env": false,
+			"shipping_fee_type": 1,
+			"poi_sell_status": 1,
+			"score": 0.0,
+			"comment_number": 1115,
+			"head_pic_url": "",
+			"promotion_head_pic_url": "",
+			"story_info": {
+				"poi_logo_icon": "",
+				"poi_tab_icon": "",
+				"entrance_url": ""
+			},
+			"extraStatInfo": "00"
+		},
+		"shopping_cart": {
+			"shopping_cart_icon": "",
+			"empty_shopping_cart_icon": "",
+			"shipping_fee_cart_tip": "另需配送费¥5",
+			"activity_info": null,
+			"self_delivery_tip": "",
+			"bg_color": "",
+			"prompt_text": ""
+		},
+		"friend_status": 4,
+		"poi_notifications": [],
+		"shopping_cart_entrance": {
+			"visible": 1,
+			"content": "新增拼单功能，可以多人点餐咯~"
+		},
+		"recommend_food_info": {
+			"title": "",
+			"spu_list": [],
+			"log_field": {
+				"recommend_food_type": 0
+			}
+		},
+		"is_show_rcmd_pois": false
+	},
+	"code": 0,
+	"msg": "成功"
+}

@@ -6,7 +6,10 @@
 
 <script>
 export default {
-  name: 'app'
+  name: 'app',
+  created(){
+    /* document.getElementById("app").webkitRequestFullScreen(); */
+  }
 }
 </script>
 
@@ -23,5 +26,14 @@ html,body{
 #app {
   width: 100%;
   height: 100%;
+}
+ul,li{
+  list-style: none;
+}
+.icon {
+    width: 1em; height: 1em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
 }
 </style>

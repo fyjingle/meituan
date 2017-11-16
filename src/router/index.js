@@ -4,6 +4,7 @@ import main from "../view/main.vue"
 import index from "../view/index.vue"
 import order from "../view/order.vue"
 import home from "../view/home.vue"
+import shop from "../view/shop.vue"
 
 Vue.use(Router)
 
@@ -30,6 +31,11 @@ export default new Router({
           component:home
         }
       ]
+    },
+    {
+      path:"/shop",
+      component:shop,
+      component:shop
     },
     {
       path: '/',

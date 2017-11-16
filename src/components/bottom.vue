@@ -2,19 +2,34 @@
   <div class="bottom"><!-- 
  --><router-link to="/main/index">
       <div :class="{active:currentRouter == 'index'}">
-        <i class="iconfont icon-shouye"></i>
+        <svg class="icon" aria-hidden="true" v-show="currentRouter == 'index'">
+            <use xlink:href="#icon-fangzi"></use>
+        </svg>
+        <svg class="icon" aria-hidden="true" v-show="currentRouter != 'index'">
+            <use xlink:href="#icon-fangzi-copy"></use>
+        </svg>
         <span>首页</span>
       </div>
     </router-link><!-- 
  --><router-link to="/main/order">
       <div :class="{active:currentRouter == 'order'}">
-          <i class="iconfont icon-dingdan"></i>
+          <svg class="icon" aria-hidden="true" v-show="currentRouter == 'order'">
+              <use xlink:href="#icon-dingdan1-copy"></use>
+          </svg>
+          <svg class="icon" aria-hidden="true" v-show="currentRouter != 'order'">
+              <use xlink:href="#icon-dingdan1"></use>
+          </svg>
           <span>订单</span>
         </div>
     </router-link><!-- 
  --><router-link to="/main/home">
         <div :class="{active:currentRouter == 'home'}">
-          <i class="iconfont icon-meituanwaimai"></i>
+          <svg class="icon" aria-hidden="true" v-show="currentRouter == 'home'">
+              <use xlink:href="#icon-meituanwaimai-copy"></use>
+          </svg>
+          <svg class="icon" aria-hidden="true" v-show="currentRouter != 'home'">
+              <use xlink:href="#icon-meituanwaimai"></use>
+          </svg>
           <span>我的</span>
         </div>
     </router-link>
@@ -53,9 +68,12 @@ export default {
 .bottom{
   width: 100%;
   height: 1.333333rem;
+  background: white;
   font-size: 10px;
   position: fixed;
   bottom: 0;
+  padding-top: .133333rem;
+  border-top: .026667rem solid #dbdbdb;
   a{
     text-decoration: none;
     color: gray;
@@ -64,9 +82,11 @@ export default {
     display: inline-block;
     width: 33.33%;
     text-align: center;
-    i{
+    .icon{
       display: block;
-      font-size: .666667rem;
+      margin:auto;
+      width:.666667rem;
+      height:.666667rem;
     }
     span{
       font-size: .266667rem;

@@ -1,0 +1,945 @@
+{
+	"tgt_stids": "",
+	"data": {
+		"poi_has_next_page": true,
+		"poi_total_num": 242,
+		"has_activity": false,
+		"poilist": [{
+			"id": 2726984,
+			"name": "零下八度蛋糕坊（下桥店）",
+			"status": 1,
+			"status_desc": "",
+			"pic_url": "http://p0.meituan.net/xianfu/e4a5c5c6ca234d899b82d54ae5acc32732768.jpg",
+			"month_sales_tip": "月售39",
+			"wm_poi_score": 0.0,
+			"distance": "27.8km",
+			"poi_type_icon": "http://p0.meituan.net/xianfu/424019d742dbb6b0193ce7ac54a843201104.png",
+			"poi_promotion_pic": "",
+			"delivery_type": 0,
+			"delivery_time_tip": "50分钟",
+			"shipping_fee_tip": "配送 ¥0",
+			"min_price_tip": "起送 ¥0",
+			"average_price_tip": "人均 ¥99",
+			"self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+			"story_icon": "",
+			"is_favorite": 0,
+			"discounts2": [{
+				"info": "满100减30;满300减50",
+				"icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+				"promotion_type": 2
+			}, {
+				"info": "本店新用户立减5元",
+				"icon_url": "http://p1.meituan.net/xianfu/1cc4324d7d2f59f2cccb6920b57cd0902048.png",
+				"promotion_type": 2
+			}, {
+				"info": "折扣商品5折起",
+				"icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+				"promotion_type": 2
+			}],
+			"log_field": {
+				"poi_type_icon_type": 2,
+				"recommend_type": 0,
+				"average_delivery_time": 50,
+				"search_log_id": ""
+			},
+			"container_template": {
+				"type": 0,
+				"tag_icon": ""
+			},
+			"ad_type": 0,
+			"ad_attr": "",
+			"charge_info": ""
+		}, {
+			"id": 2549755,
+			"name": "许愿树蛋糕",
+			"status": 1,
+			"status_desc": "",
+			"pic_url": "http://p0.meituan.net/xianfu/8fd87f94d4f9f9c60bb667425305aa18161532.jpg",
+			"month_sales_tip": "月售55",
+			"wm_poi_score": 4.9,
+			"distance": "25.5km",
+			"poi_type_icon": "",
+			"poi_promotion_pic": "",
+			"delivery_type": 0,
+			"delivery_time_tip": "40分钟",
+			"shipping_fee_tip": "配送 ¥0",
+			"min_price_tip": "起送 ¥0",
+			"average_price_tip": "人均 ¥101",
+			"self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+			"story_icon": "",
+			"is_favorite": 0,
+			"discounts2": [{
+				"info": "满50减10;满100减20;满150减25;满200减30;满300减40",
+				"icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+				"promotion_type": 2
+			}, {
+				"info": "新用户立减14元,首次使用银行卡支付最高再减3元",
+				"icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+				"promotion_type": 2
+			}, {
+				"info": "可领5~20元代金券",
+				"icon_url": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+				"promotion_type": 2
+			}, {
+				"info": "实际支付88元返5元商家代金券（使用规则由商家提供，详见商家规则）",
+				"icon_url": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+				"promotion_type": 2
+			}, {
+				"info": "满50元赠送音乐盒，生日帽，刀叉一份",
+				"icon_url": "http://p1.meituan.net/xianfu/5ffe01c550a139db693d152cefd1b247869.png",
+				"promotion_type": 2
+			}],
+			"log_field": {
+				"poi_type_icon_type": 0,
+				"recommend_type": 0,
+				"average_delivery_time": 40,
+				"search_log_id": ""
+			},
+			"container_template": {
+				"type": 0,
+				"tag_icon": ""
+			},
+			"ad_type": 0,
+			"ad_attr": "",
+			"charge_info": ""
+		}, {
+			"id": 1022985,
+			"name": "美辰蛋糕店",
+			"status": 1,
+			"status_desc": "",
+			"pic_url": "http://p0.meituan.net/xianfu/a683fa02796c767cce363dcb051e2501252930.jpg",
+			"month_sales_tip": "月售12",
+			"wm_poi_score": 0.0,
+			"distance": "26.5km",
+			"poi_type_icon": "",
+			"poi_promotion_pic": "",
+			"delivery_type": 0,
+			"delivery_time_tip": "50分钟",
+			"shipping_fee_tip": "配送 ¥0",
+			"min_price_tip": "起送 ¥0",
+			"average_price_tip": "人均 ¥117",
+			"self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+			"story_icon": "",
+			"is_favorite": 0,
+			"discounts2": [{
+				"info": "满50减3;满120减30;满200减40;满300减50",
+				"icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+				"promotion_type": 2
+			}, {
+				"info": "本店新用户立减5元",
+				"icon_url": "http://p1.meituan.net/xianfu/1cc4324d7d2f59f2cccb6920b57cd0902048.png",
+				"promotion_type": 2
+			}, {
+				"info": "折扣商品3.5折起",
+				"icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+				"promotion_type": 2
+			}, {
+				"info": "满35元赠送生日帽1个，音乐蜡烛1个",
+				"icon_url": "http://p1.meituan.net/xianfu/5ffe01c550a139db693d152cefd1b247869.png",
+				"promotion_type": 2
+			}],
+			"log_field": {
+				"poi_type_icon_type": 0,
+				"recommend_type": 0,
+				"average_delivery_time": 50,
+				"search_log_id": ""
+			},
+			"container_template": {
+				"type": 0,
+				"tag_icon": ""
+			},
+			"ad_type": 0,
+			"ad_attr": "",
+			"charge_info": ""
+		}, {
+			"id": 1691379,
+			"name": "妞妞西饼蛋糕店",
+			"status": 1,
+			"status_desc": "",
+			"pic_url": "http://p1.meituan.net/xianfu/2c6f7f701e39602c45a2fe0c0654a9dc36864.jpg",
+			"month_sales_tip": "月售11",
+			"wm_poi_score": 0.0,
+			"distance": "18.8km",
+			"poi_type_icon": "",
+			"poi_promotion_pic": "",
+			"delivery_type": 0,
+			"delivery_time_tip": "50分钟",
+			"shipping_fee_tip": "配送 ¥0",
+			"min_price_tip": "起送 ¥0",
+			"average_price_tip": "人均 ¥91",
+			"self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+			"story_icon": "",
+			"is_favorite": 0,
+			"discounts2": [{
+				"info": "满100减20",
+				"icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+				"promotion_type": 2
+			}, {
+				"info": "本店新用户立减5元",
+				"icon_url": "http://p1.meituan.net/xianfu/1cc4324d7d2f59f2cccb6920b57cd0902048.png",
+				"promotion_type": 2
+			}],
+			"log_field": {
+				"poi_type_icon_type": 0,
+				"recommend_type": 0,
+				"average_delivery_time": 50,
+				"search_log_id": ""
+			},
+			"container_template": {
+				"type": 0,
+				"tag_icon": ""
+			},
+			"ad_type": 0,
+			"ad_attr": "",
+			"charge_info": ""
+		}, {
+			"id": 1658917,
+			"name": "鼎好蛋糕店",
+			"status": 1,
+			"status_desc": "",
+			"pic_url": "http://p0.meituan.net/xianfu/1ff4f10c820823c0329b795f508a89a4127721.jpg",
+			"month_sales_tip": "月售10",
+			"wm_poi_score": 0.0,
+			"distance": "20.6km",
+			"poi_type_icon": "",
+			"poi_promotion_pic": "",
+			"delivery_type": 0,
+			"delivery_time_tip": "67分钟",
+			"shipping_fee_tip": "配送 ¥0",
+			"min_price_tip": "起送 ¥0",
+			"average_price_tip": "人均 ¥106",
+			"self_delivery_icon": "",
+			"story_icon": "",
+			"is_favorite": 0,
+			"log_field": {
+				"poi_type_icon_type": 0,
+				"recommend_type": 0,
+				"average_delivery_time": 67,
+				"search_log_id": ""
+			},
+			"container_template": {
+				"type": 0,
+				"tag_icon": ""
+			},
+			"ad_type": 0,
+			"ad_attr": "",
+			"charge_info": ""
+		}, {
+			"id": 3433347,
+			"name": "澳奇斯蛋糕店",
+			"status": 1,
+			"status_desc": "",
+			"pic_url": "http://p0.meituan.net/xianfu/fb92147973821fa1fd458f27acdedef644766.jpg",
+			"month_sales_tip": "月售97",
+			"wm_poi_score": 4.9,
+			"distance": "18.2km",
+			"poi_type_icon": "",
+			"poi_promotion_pic": "",
+			"delivery_type": 0,
+			"delivery_time_tip": "57分钟",
+			"shipping_fee_tip": "配送 ¥0",
+			"min_price_tip": "起送 ¥0",
+			"average_price_tip": "人均 ¥102",
+			"self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+			"story_icon": "",
+			"is_favorite": 0,
+			"discounts2": [{
+				"info": "满108减10;满200减15;满300减20",
+				"icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+				"promotion_type": 2
+			}, {
+				"info": "配送费立减1元",
+				"icon_url": "http://p0.meituan.net/xianfu/10d0777e47844ea90b89d23c01eabe3c1164.png",
+				"promotion_type": 2
+			}, {
+				"info": "本店新用户立减2元, 新用户立减18元,首次使用银行卡支付最高再减3元",
+				"icon_url": "http://p1.meituan.net/xianfu/1cc4324d7d2f59f2cccb6920b57cd0902048.png",
+				"promotion_type": 2
+			}, {
+				"info": "折扣商品4.8折起",
+				"icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+				"promotion_type": 2
+			}, {
+				"info": "可领3元代金券",
+				"icon_url": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+				"promotion_type": 2
+			}, {
+				"info": "实际支付98元返3元商家代金券",
+				"icon_url": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+				"promotion_type": 2
+			}],
+			"log_field": {
+				"poi_type_icon_type": 0,
+				"recommend_type": 0,
+				"average_delivery_time": 57,
+				"search_log_id": ""
+			},
+			"container_template": {
+				"type": 0,
+				"tag_icon": ""
+			},
+			"ad_type": 0,
+			"ad_attr": "",
+			"charge_info": ""
+		}, {
+			"id": 1854462,
+			"name": "芳香蛋糕店",
+			"status": 1,
+			"status_desc": "",
+			"pic_url": "http://p1.meituan.net/xianfu/f11cc455c28c75b839ed335408857f0b224520.jpg",
+			"month_sales_tip": "月售119",
+			"wm_poi_score": 4.7,
+			"distance": "13.2km",
+			"poi_type_icon": "",
+			"poi_promotion_pic": "",
+			"delivery_type": 0,
+			"delivery_time_tip": "57分钟",
+			"shipping_fee_tip": "配送 ¥0",
+			"min_price_tip": "起送 ¥0",
+			"average_price_tip": "人均 ¥100",
+			"self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+			"story_icon": "",
+			"is_favorite": 0,
+			"discounts2": [{
+				"info": "满100减30;满300减45",
+				"icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+				"promotion_type": 2
+			}, {
+				"info": "新用户立减14元,首次使用银行卡支付最高再减3元",
+				"icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+				"promotion_type": 2
+			}, {
+				"info": "折扣商品4.78折起",
+				"icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+				"promotion_type": 2
+			}, {
+				"info": "可领5元代金券",
+				"icon_url": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+				"promotion_type": 2
+			}],
+			"log_field": {
+				"poi_type_icon_type": 0,
+				"recommend_type": 0,
+				"average_delivery_time": 57,
+				"search_log_id": ""
+			},
+			"container_template": {
+				"type": 0,
+				"tag_icon": ""
+			},
+			"ad_type": 0,
+			"ad_attr": "",
+			"charge_info": ""
+		}, {
+			"id": 1211392,
+			"name": "美丽契约鲜花（沙井欣艺鲜花）",
+			"status": 1,
+			"status_desc": "",
+			"pic_url": "http://p1.meituan.net/xianfu/d71560ee7faa9131e046ff53f1558ea27254.jpeg",
+			"month_sales_tip": "月售0",
+			"wm_poi_score": 0.0,
+			"distance": "29.4km",
+			"poi_type_icon": "http://p0.meituan.net/xianfu/424019d742dbb6b0193ce7ac54a843201104.png",
+			"poi_promotion_pic": "",
+			"delivery_type": 0,
+			"delivery_time_tip": "2小时",
+			"shipping_fee_tip": "配送 ¥0",
+			"min_price_tip": "起送 ¥0",
+			"average_price_tip": "",
+			"self_delivery_icon": "",
+			"story_icon": "http://p0.meituan.net/aichequan/db5514a392c9eebd432a8453b3b3461b786.png",
+			"is_favorite": 0,
+			"discounts2": [{
+				"info": "满100减30;满200减60;满300减100",
+				"icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+				"promotion_type": 2
+			}, {
+				"info": "本店新用户立减3元",
+				"icon_url": "http://p1.meituan.net/xianfu/1cc4324d7d2f59f2cccb6920b57cd0902048.png",
+				"promotion_type": 2
+			}, {
+				"info": "折扣商品2.61折起",
+				"icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+				"promotion_type": 2
+			}, {
+				"info": "可领3元代金券",
+				"icon_url": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+				"promotion_type": 2
+			}, {
+				"info": "实际支付68元返5元商家代金券",
+				"icon_url": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+				"promotion_type": 2
+			}],
+			"log_field": {
+				"poi_type_icon_type": 2,
+				"recommend_type": 0,
+				"average_delivery_time": 120,
+				"search_log_id": ""
+			},
+			"container_template": {
+				"type": 0,
+				"tag_icon": ""
+			},
+			"ad_type": 0,
+			"ad_attr": "",
+			"charge_info": ""
+		}, {
+			"id": 1211393,
+			"name": "美丽契约鲜花（罗湖枫叶花店）",
+			"status": 1,
+			"status_desc": "",
+			"pic_url": "http://p1.meituan.net/xianfu/d71560ee7faa9131e046ff53f1558ea27254.jpeg",
+			"month_sales_tip": "月售0",
+			"wm_poi_score": 0.0,
+			"distance": "",
+			"poi_type_icon": "http://p0.meituan.net/xianfu/424019d742dbb6b0193ce7ac54a843201104.png",
+			"poi_promotion_pic": "",
+			"delivery_type": 0,
+			"delivery_time_tip": "2小时",
+			"shipping_fee_tip": "配送 ¥0",
+			"min_price_tip": "起送 ¥0",
+			"average_price_tip": "",
+			"self_delivery_icon": "",
+			"story_icon": "http://p0.meituan.net/aichequan/db5514a392c9eebd432a8453b3b3461b786.png",
+			"is_favorite": 0,
+			"discounts2": [{
+				"info": "满100减10;满200减20;满300减30",
+				"icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+				"promotion_type": 2
+			}, {
+				"info": "本店新用户立减3元",
+				"icon_url": "http://p1.meituan.net/xianfu/1cc4324d7d2f59f2cccb6920b57cd0902048.png",
+				"promotion_type": 2
+			}, {
+				"info": "折扣商品2.61折起",
+				"icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+				"promotion_type": 2
+			}, {
+				"info": "可领3元代金券",
+				"icon_url": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+				"promotion_type": 2
+			}, {
+				"info": "实际支付68元返5元商家代金券",
+				"icon_url": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+				"promotion_type": 2
+			}],
+			"log_field": {
+				"poi_type_icon_type": 2,
+				"recommend_type": 0,
+				"average_delivery_time": 120,
+				"search_log_id": ""
+			},
+			"container_template": {
+				"type": 0,
+				"tag_icon": ""
+			},
+			"ad_type": 0,
+			"ad_attr": "",
+			"charge_info": ""
+		}, {
+			"id": 2013446,
+			"name": "琴海涛麦维克汉堡奶茶",
+			"status": 1,
+			"status_desc": "",
+			"pic_url": "http://p1.meituan.net/xianfu/32e9dbfa01dc9b4d80d8cb18b8b40f4140960.jpg",
+			"month_sales_tip": "月售620",
+			"wm_poi_score": 4.4,
+			"distance": "6.6km",
+			"poi_type_icon": "",
+			"poi_promotion_pic": "",
+			"delivery_type": 0,
+			"delivery_time_tip": "41分钟",
+			"shipping_fee_tip": "配送 ¥5",
+			"min_price_tip": "起送 ¥80",
+			"average_price_tip": "人均 ¥24",
+			"self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+			"story_icon": "",
+			"is_favorite": 0,
+			"discounts2": [{
+				"info": "满40减3;满60减5;满80减7;满100减9;满120减12",
+				"icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+				"promotion_type": 2
+			}, {
+				"info": "新用户立减14元,首次使用银行卡支付最高再减3元",
+				"icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+				"promotion_type": 2
+			}, {
+				"info": "折扣商品4.5折起",
+				"icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+				"promotion_type": 2
+			}],
+			"log_field": {
+				"poi_type_icon_type": 0,
+				"recommend_type": 0,
+				"average_delivery_time": 41,
+				"search_log_id": ""
+			},
+			"container_template": {
+				"type": 0,
+				"tag_icon": ""
+			},
+			"ad_type": 0,
+			"ad_attr": "",
+			"charge_info": ""
+		}, {
+			"id": 1836018,
+			"name": "南城爱花居",
+			"status": 1,
+			"status_desc": "",
+			"pic_url": "http://p1.meituan.net/xianfu/d98d0f34a4b0099ff5062d1d173af03b36864.jpg",
+			"month_sales_tip": "月售15",
+			"wm_poi_score": 0.0,
+			"distance": "21.6km",
+			"poi_type_icon": "",
+			"poi_promotion_pic": "",
+			"delivery_type": 0,
+			"delivery_time_tip": "2小时",
+			"shipping_fee_tip": "配送 ¥0",
+			"min_price_tip": "起送 ¥0",
+			"average_price_tip": "",
+			"self_delivery_icon": "",
+			"story_icon": "",
+			"is_favorite": 0,
+			"discounts2": [{
+				"info": "满50减5",
+				"icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+				"promotion_type": 2
+			}, {
+				"info": "本店新用户可领10元代金券",
+				"icon_url": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+				"promotion_type": 2
+			}, {
+				"info": "实际支付100元返10元商家代金券",
+				"icon_url": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+				"promotion_type": 2
+			}],
+			"log_field": {
+				"poi_type_icon_type": 0,
+				"recommend_type": 0,
+				"average_delivery_time": 120,
+				"search_log_id": ""
+			},
+			"container_template": {
+				"type": 0,
+				"tag_icon": ""
+			},
+			"ad_type": 0,
+			"ad_attr": "",
+			"charge_info": ""
+		}, {
+			"id": 2603678,
+			"name": "秘制小龙虾",
+			"status": 1,
+			"status_desc": "",
+			"pic_url": "http://p0.meituan.net/xianfu/64dcd89f1f1181264fb69004a9cde0e938912.jpg",
+			"month_sales_tip": "月售473",
+			"wm_poi_score": 4.5,
+			"distance": "4.7km",
+			"poi_type_icon": "",
+			"poi_promotion_pic": "",
+			"delivery_type": 0,
+			"delivery_time_tip": "39分钟",
+			"shipping_fee_tip": "配送 ¥6",
+			"min_price_tip": "起送 ¥150",
+			"average_price_tip": "",
+			"self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+			"story_icon": "",
+			"is_favorite": 0,
+			"discounts2": [{
+				"info": "新用户立减14元,首次使用银行卡支付最高再减3元",
+				"icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+				"promotion_type": 2
+			}, {
+				"info": "实际支付200元返10元商家代金券",
+				"icon_url": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+				"promotion_type": 2
+			}],
+			"log_field": {
+				"poi_type_icon_type": 0,
+				"recommend_type": 0,
+				"average_delivery_time": 39,
+				"search_log_id": ""
+			},
+			"container_template": {
+				"type": 0,
+				"tag_icon": ""
+			},
+			"ad_type": 0,
+			"ad_attr": "",
+			"charge_info": ""
+		}, {
+			"id": 3552834,
+			"name": "伊米蛋糕",
+			"status": 1,
+			"status_desc": "",
+			"pic_url": "http://p1.meituan.net/xianfu/a3d04658cf7088cfc439fc016dddfe92192512.jpg",
+			"month_sales_tip": "月售53",
+			"wm_poi_score": 5.0,
+			"distance": "17.7km",
+			"poi_type_icon": "http://p0.meituan.net/xianfu/1d8aa7f1ef0946e602d4ef5317388d831457.png",
+			"poi_promotion_pic": "",
+			"delivery_type": 0,
+			"delivery_time_tip": "56分钟",
+			"shipping_fee_tip": "配送 ¥0",
+			"min_price_tip": "起送 ¥0",
+			"average_price_tip": "人均 ¥98",
+			"self_delivery_icon": "",
+			"story_icon": "",
+			"is_favorite": 0,
+			"discounts2": [{
+				"info": "满100减35;满200减50",
+				"icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+				"promotion_type": 2
+			}, {
+				"info": "折扣商品5折起",
+				"icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+				"promotion_type": 2
+			}, {
+				"info": "满68元赠送音乐荷花蜡烛一个",
+				"icon_url": "http://p1.meituan.net/xianfu/5ffe01c550a139db693d152cefd1b247869.png",
+				"promotion_type": 2
+			}],
+			"log_field": {
+				"poi_type_icon_type": 1,
+				"recommend_type": 0,
+				"average_delivery_time": 56,
+				"search_log_id": ""
+			},
+			"container_template": {
+				"type": 0,
+				"tag_icon": ""
+			},
+			"ad_type": 0,
+			"ad_attr": "",
+			"charge_info": ""
+		}, {
+			"id": 2887188,
+			"name": "紫来轩（东浦店）",
+			"status": 3,
+			"status_desc": "休息中",
+			"pic_url": "http://p1.meituan.net/xianfu/da3d0cddb49d01d2faee4654a712ddb192498.jpg",
+			"month_sales_tip": "月售27",
+			"wm_poi_score": 0.0,
+			"distance": "35.3km",
+			"poi_type_icon": "",
+			"poi_promotion_pic": "",
+			"delivery_type": 0,
+			"delivery_time_tip": "50分钟",
+			"shipping_fee_tip": "配送 ¥0",
+			"min_price_tip": "起送 ¥20",
+			"average_price_tip": "人均 ¥181",
+			"self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+			"story_icon": "",
+			"is_favorite": 0,
+			"discounts2": [{
+				"info": "折扣商品8.8折起",
+				"icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+				"promotion_type": 2
+			}],
+			"log_field": {
+				"poi_type_icon_type": 0,
+				"recommend_type": 0,
+				"average_delivery_time": 50,
+				"search_log_id": ""
+			},
+			"container_template": {
+				"type": 0,
+				"tag_icon": ""
+			},
+			"ad_type": 0,
+			"ad_attr": "",
+			"charge_info": ""
+		}, {
+			"id": 1319182,
+			"name": "幸福西饼蛋糕(东莞店)",
+			"status": 3,
+			"status_desc": "休息中",
+			"pic_url": "http://p1.meituan.net/xianfu/b6a6d987880c0c7a8a79db7c04c8784116220.jpeg",
+			"month_sales_tip": "月售1181",
+			"wm_poi_score": 4.6,
+			"distance": "20.6km",
+			"poi_type_icon": "http://p0.meituan.net/xianfu/424019d742dbb6b0193ce7ac54a843201104.png",
+			"poi_promotion_pic": "",
+			"delivery_type": 0,
+			"delivery_time_tip": "3.5小时",
+			"shipping_fee_tip": "配送 ¥0",
+			"min_price_tip": "起送 ¥0",
+			"average_price_tip": "人均 ¥114",
+			"self_delivery_icon": "",
+			"story_icon": "http://p0.meituan.net/aichequan/db5514a392c9eebd432a8453b3b3461b786.png",
+			"is_favorite": 0,
+			"recommend_info": {
+				"icon": "http://p1.meituan.net/xianfu/a0b192ffdab672109d9f767dbd49653a919.png",
+				"recommend_reason": "大众点评高分店铺"
+			},
+			"discounts2": [{
+				"info": "满10减10;满128减20;满228减30",
+				"icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+				"promotion_type": 2
+			}, {
+				"info": "新用户立减12元,首次使用银行卡支付最高再减3元",
+				"icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+				"promotion_type": 2
+			}, {
+				"info": "折扣商品2.01折起",
+				"icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+				"promotion_type": 2
+			}, {
+				"info": "可领5~20元代金券",
+				"icon_url": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+				"promotion_type": 2
+			}, {
+				"info": "实际支付11元返10元商家代金券",
+				"icon_url": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+				"promotion_type": 2
+			}, {
+				"info": "本店支持开发票，开票金额100元起",
+				"icon_url": "http://p0.meituan.net/xianfu/476ba65ee80b6385bab292c085baed17940.png",
+				"promotion_type": 2
+			}],
+			"log_field": {
+				"poi_type_icon_type": 2,
+				"recommend_type": 3,
+				"average_delivery_time": 210,
+				"search_log_id": ""
+			},
+			"container_template": {
+				"type": 0,
+				"tag_icon": ""
+			},
+			"ad_type": 0,
+			"ad_attr": "",
+			"charge_info": ""
+		}, {
+			"id": 129604,
+			"name": "南风外卖",
+			"status": 3,
+			"status_desc": "休息中",
+			"pic_url": "http://p0.meituan.net/xianfu/742b5b2d8b533a97ad3ac06c46722d8019343.jpg",
+			"month_sales_tip": "月售2807",
+			"wm_poi_score": 4.2,
+			"distance": "2.4km",
+			"poi_type_icon": "",
+			"poi_promotion_pic": "",
+			"delivery_type": 0,
+			"delivery_time_tip": "54分钟",
+			"shipping_fee_tip": "配送 ¥0",
+			"min_price_tip": "起送 ¥10",
+			"average_price_tip": "人均 ¥14",
+			"self_delivery_icon": "",
+			"story_icon": "",
+			"is_favorite": 0,
+			"discounts2": [{
+				"info": "满15减1",
+				"icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+				"promotion_type": 2
+			}, {
+				"info": "新用户立减2元,首次使用银行卡支付最高再减3元",
+				"icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+				"promotion_type": 2
+			}, {
+				"info": "实际支付15元返1元商家代金券",
+				"icon_url": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+				"promotion_type": 2
+			}],
+			"log_field": {
+				"poi_type_icon_type": 0,
+				"recommend_type": 0,
+				"average_delivery_time": 54,
+				"search_log_id": ""
+			},
+			"container_template": {
+				"type": 0,
+				"tag_icon": ""
+			},
+			"ad_type": 0,
+			"ad_attr": "",
+			"charge_info": ""
+		}, {
+			"id": 1763557,
+			"name": "趣香园（东园店）",
+			"status": 3,
+			"status_desc": "休息中",
+			"pic_url": "http://p0.meituan.net/xianfu/48bbda515e675f671c2dd126db5531ea40270.jpg",
+			"month_sales_tip": "月售9",
+			"wm_poi_score": 0.0,
+			"distance": "20.9km",
+			"poi_type_icon": "http://p0.meituan.net/xianfu/424019d742dbb6b0193ce7ac54a843201104.png",
+			"poi_promotion_pic": "",
+			"delivery_type": 0,
+			"delivery_time_tip": "50分钟",
+			"shipping_fee_tip": "配送 ¥0",
+			"min_price_tip": "起送 ¥0",
+			"average_price_tip": "人均 ¥102",
+			"self_delivery_icon": "",
+			"story_icon": "",
+			"is_favorite": 0,
+			"discounts2": [{
+				"info": "本店新用户立减10元",
+				"icon_url": "http://p1.meituan.net/xianfu/1cc4324d7d2f59f2cccb6920b57cd0902048.png",
+				"promotion_type": 2
+			}, {
+				"info": "折扣商品4.33折起",
+				"icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+				"promotion_type": 2
+			}, {
+				"info": "可领10~20元代金券",
+				"icon_url": "http://p0.meituan.net/xianfu/c2c0f31d0ebf0f60af115d058169c492992.png",
+				"promotion_type": 2
+			}, {
+				"info": "实际支付50元返10元商家代金券（使用规则由商家提供，详见商家规则）",
+				"icon_url": "http://p0.meituan.net/xianfu/652eea4034250563fe11b02e3219ba8d981.png",
+				"promotion_type": 2
+			}],
+			"log_field": {
+				"poi_type_icon_type": 2,
+				"recommend_type": 0,
+				"average_delivery_time": 50,
+				"search_log_id": ""
+			},
+			"container_template": {
+				"type": 0,
+				"tag_icon": ""
+			},
+			"ad_type": 0,
+			"ad_attr": "",
+			"charge_info": ""
+		}, {
+			"id": 2312204,
+			"name": "吉客炸鸡汉堡店",
+			"status": 3,
+			"status_desc": "休息中",
+			"pic_url": "http://p0.meituan.net/xianfu/218a658045dffa63546347e47b5c0241403258.jpg",
+			"month_sales_tip": "月售287",
+			"wm_poi_score": 4.0,
+			"distance": "2.3km",
+			"poi_type_icon": "",
+			"poi_promotion_pic": "",
+			"delivery_type": 0,
+			"delivery_time_tip": "90分钟",
+			"shipping_fee_tip": "配送 ¥0",
+			"min_price_tip": "起送 ¥15",
+			"average_price_tip": "人均 ¥20",
+			"self_delivery_icon": "",
+			"story_icon": "",
+			"is_favorite": 0,
+			"discounts2": [{
+				"info": "满30减3;满50减6",
+				"icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+				"promotion_type": 2
+			}, {
+				"info": "折扣商品3.33折起",
+				"icon_url": "http://p1.meituan.net/xianfu/9c997ecce6150671b8459738a26f8bd9767.png",
+				"promotion_type": 2
+			}, {
+				"info": "满38元赠送香辣鸡翅一对",
+				"icon_url": "http://p1.meituan.net/xianfu/5ffe01c550a139db693d152cefd1b247869.png",
+				"promotion_type": 2
+			}],
+			"log_field": {
+				"poi_type_icon_type": 0,
+				"recommend_type": 0,
+				"average_delivery_time": 90,
+				"search_log_id": ""
+			},
+			"container_template": {
+				"type": 0,
+				"tag_icon": ""
+			},
+			"ad_type": 0,
+			"ad_attr": "",
+			"charge_info": ""
+		}, {
+			"id": 1481701,
+			"name": "稍微麻辣海鲜（大岭山店）",
+			"status": 3,
+			"status_desc": "休息中",
+			"pic_url": "http://p1.meituan.net/xianfu/34d41b48847a064402d798ba63a7d962170059.jpg",
+			"month_sales_tip": "月售203",
+			"wm_poi_score": 4.3,
+			"distance": "5.0km",
+			"poi_type_icon": "",
+			"poi_promotion_pic": "",
+			"delivery_type": 0,
+			"delivery_time_tip": "52分钟",
+			"shipping_fee_tip": "配送 ¥0",
+			"min_price_tip": "起送 ¥150",
+			"average_price_tip": "人均 ¥82",
+			"self_delivery_icon": "",
+			"story_icon": "",
+			"is_favorite": 0,
+			"discounts2": [{
+				"info": "满25减1",
+				"icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+				"promotion_type": 2
+			}, {
+				"info": "新用户立减15元,首次使用银行卡支付最高再减3元",
+				"icon_url": "http://p0.meituan.net/xianfu/019d1bbb1310b1531e6af6172c9a5095581.png",
+				"promotion_type": 2
+			}],
+			"log_field": {
+				"poi_type_icon_type": 0,
+				"recommend_type": 0,
+				"average_delivery_time": 52,
+				"search_log_id": ""
+			},
+			"container_template": {
+				"type": 0,
+				"tag_icon": ""
+			},
+			"ad_type": 0,
+			"ad_attr": "",
+			"charge_info": ""
+		}, {
+			"id": 3333486,
+			"name": "谷之味",
+			"status": 3,
+			"status_desc": "休息中",
+			"pic_url": "http://p0.meituan.net/xianfu/046de5585fc76944958a5b06cd664f8b26624.jpg",
+			"month_sales_tip": "月售28",
+			"wm_poi_score": 0.0,
+			"distance": "3.2km",
+			"poi_type_icon": "",
+			"poi_promotion_pic": "",
+			"delivery_type": 0,
+			"delivery_time_tip": "44分钟",
+			"shipping_fee_tip": "配送 ¥0",
+			"min_price_tip": "起送 ¥12",
+			"average_price_tip": "",
+			"self_delivery_icon": "http://p1.meituan.net/aichequan/d7b1f1f28a2523c45ffb34555f894cb22489.png",
+			"story_icon": "",
+			"is_favorite": 0,
+			"discounts2": [{
+				"info": "满15减1;满30减2;满45减3;满60减4",
+				"icon_url": "http://p0.meituan.net/xianfu/f8bc8dffdbc805878aa3801a33f563cd1001.png",
+				"promotion_type": 2
+			}],
+			"log_field": {
+				"poi_type_icon_type": 0,
+				"recommend_type": 0,
+				"average_delivery_time": 44,
+				"search_log_id": ""
+			},
+			"container_template": {
+				"type": 0,
+				"tag_icon": ""
+			},
+			"ad_type": 0,
+			"ad_attr": "",
+			"charge_info": ""
+		}],
+		"rank_strategy_tag": "",
+		"rank_strategy_version": "",
+		"footprint_entrance": {
+			"is_show": true,
+			"icon_url": "http://p1.meituan.net/aichequan/6dd136c9612331817f952475d749770b4238.png"
+		},
+		"judas_field": {
+			"rank_trace_id": ""
+		},
+		"need_login": false,
+		"coupon_nologin_background": ""
+	},
+	"code": 0,
+	"msg": "成功"
+}

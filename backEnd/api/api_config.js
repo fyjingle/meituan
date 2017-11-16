@@ -1,9 +1,11 @@
 const host_config = {
-    host:'apis.map.qq.com'
+    host:'http://apis.map.qq.com'
 }
 
 const api_router_config = {
-    userposition:"/ws/location/v1/ip"
+    userposition:"/ws/location/v1/ip",
+    conversionCoordinate:"/ws/geocoder/v1",
+    shopList:"../data/shopList.json"
 }
 
 const key_config = {
