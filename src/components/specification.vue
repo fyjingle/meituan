@@ -10,22 +10,26 @@
             </div>
             <ul>
                 <div>规格:</div>
-                <li v-for="(item,index) in food.skus">
+                <li v-for="(item,index) in food.skus" 
+                    :class="{checked:checked == index}" 
+                    @click="checked=index">
                     {{item.spec}}
                 </li>
             </ul>
             <div class="footer">
-                <span class="price">￥84</span>
+                <span class="price">￥{{food.skus[checked].price}}</span>
                 <span class="description">
-                    (<span>hgfkfhkjafhkfhh</span>)
+                    (<span>food.skus[checked].spec</span>)
                 </span>
                 <span class="add">
                     <addToCar 
                         class="addToCar" 
                         @middleStation="middleStation"
+                        :seller="seller"
+                        :food="food.skus[checked]"
                         :car="true"
                         :add="false"
-                        :hasChoose="false"
+                        :name="food.skus[checked].spec"
                     ></addToCar>
                 </span>
             </div>
@@ -36,11 +40,15 @@
     import addToCar from "./addToCar.vue"
 export default{
     name:"specification",
-    props:["title","skus","food"],
+    props:["seller","food"],
     data(){
         return {
-            
+            foodChecked:"",
+            foodCheckedName:"",
+            checked:0
         }
+    },
+    mounted(){
     },
     components:{
         addToCar
@@ -101,6 +109,11 @@ export default{
                 margin-top: 0.3rem;
                 padding: 0.2rem;
                 border: 0.4px solid #c1c1c1;
+            }
+            .checked{
+                border: 1px solid #c3ae18;
+                background: rgba(255, 255, 0, 0.15);
+                color: #FFC107;
             }
         }
         .footer{

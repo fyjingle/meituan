@@ -1,7 +1,7 @@
 <template>
     <div class="shop" ref="shop">  
         <header>
-            <svg class="icon" aria-hidden="true">
+            <svg class="icon" aria-hidden="true" @click="back">
                 <use xlink:href="#icon-arrow-left"></use>
             </svg>
             <div class="search">
@@ -70,7 +70,7 @@
                                         :food="food.skus[0]"
                                         :car="false"
                                         :add="true"
-                                        :hasChoose="false"
+                                        :name="food.name"
                                     ></addToCar>
                                 </div>
                             </div>
@@ -80,26 +80,29 @@
             </div>
         </div>
         <specification 
-            :title="merchantInfo.food_spu_tags[5].spus[2].name" 
-            :skus="merchantInfo.food_spu_tags[5].spus[2].skus"  
+            :seller="merchantInfo.poi_info.id"
             :food="specificationContent"
             @ball="ball" 
             @close="closeSpecification"
             v-if="specificationShow">
         </specification>
+        <carDetail 
+            v-if="carDetailFlag"
+            :seller="merchantInfo.poi_info.id"
+        ></carDetail>
         <div class="shoppingCart">
-            <div class="car">
-                <div class="carWrap" :class="{carActive:carTransitionOpen}" ref='carWrap'>
-                    <svg class="icon" aria-hidden="true">
+            <div class="car" @click="carDetailFlag = !carDetailFlag">
+                <div class="carWrap" :class="{carActive:carTransitionOpen,yellowCarWrap:total>0}" ref='carWrap'>
+                    <svg class="icon" aria-hidden="true" v-show="total == 0">
                         <use xlink:href="#icon-gouwuche"></use>
                     </svg>
-                    <svg class="icon" aria-hidden="true" v-show="false">
+                    <svg class="icon" aria-hidden="true" v-show="total > 0">
                         <use xlink:href="#icon-gouwuche-copy"></use>
                     </svg>                
                 </div>
             </div>
             <div class="totalAmount">
-                <div class="foodPrice">￥11</div>
+                <div class="foodPrice">￥{{total}}</div>
                 <div class="tip">{{merchantInfo.shopping_cart.shipping_fee_cart_tip}}</div>
             </div>
             <span class="shippingFee" v-if='false'>
@@ -123,6 +126,8 @@ import bScroll from "better-scroll"
 import { mapGetters } from 'vuex'
 import specification from "../components/specification.vue"
 import addToCar from "../components/addToCar.vue"
+import carDetail from "../components/carDetail.vue"
+import { CARINIT } from "../store/mutations-type.js"
 export default{
     name:"shop",
     data(){
@@ -139,32 +144,58 @@ export default{
             ballTY:"",
             //购物车动画开启标志
             carTransitionOpen:false,
+            //购物车详情显示标志
+            carDetailFlag:false,
             //规格显示
             specificationShow:false, 
             //规格内容
             specificationContent:""
-
-            
         }
     },
     computed:{
         ...mapGetters({
             sellerID:'sellerID',
             foodID:"foodID",
-            foodCount:"foodCount"
+            foodCount:"foodCount",
+            totalPrice:'totalPrice',
         }),
-        totalPrice(){
-            let sellerIndex = sellerID[merchantInfo.poi_info.id];
-            
+        total(){
+            let seller = this.merchantInfo.poi_info.id;
+            let index = this.sellerID[seller];
+            return this.totalPrice[index];
         }
+    },
+    watch:{
+        /* total:function(newValue,oldValue){
+            var vm = this
+            function animate () {
+                if (TWEEN.update()) {
+                requestAnimationFrame(animate)
+                }
+            }
+            new TWEEN.Tween({ tweeningNumber: oldValue })
+                .easing(TWEEN.Easing.Quadratic.Out)
+                .to({ tweeningNumber: newValue }, 500)
+                .onUpdate(function () {
+                vm.totalAnimate = this.tweeningNumber.toFixed(0)
+                })
+                .start()
+            animate()
+        } */
     },
     components:{
         specification,
-        addToCar
+        addToCar,
+        carDetail
     },
     created(){
         this.merchantInfo = merchantInfo.data;
-        console.log(this.merchantInfo);
+        this.$store.commit(CARINIT,this.merchantInfo.poi_info.id);
+
+        let food_spu_tags = this.merchantInfo.food_spu_tags;
+        let seller = this.merchantInfo.poi_info.id;
+        let food = this.sellerID[seller];
+        
     },
     mounted(){
         this.$nextTick(()=>{
@@ -176,26 +207,14 @@ export default{
             });
         });
         this.bindListener();
-        
     },
     methods:{
+        back(){
+            this.$router.push({path:"/main"});
+        },
         toggle(){
 
         },
-        /* addToCar(event){
-            this.showBall = true;
-            this.$nextTick(()=>{
-                 //计算小球动画终点位置
-                this.constX = 0.9;
-                this.constY = -1.4;
-                var rect = event.target.getBoundingClientRect();
-                this.ballX = rect.x + rect.width/2;
-                var clientY = document.body.clientHeight;
-                this.ballY = (clientY - rect.y - rect.height/2);
-                this.ballTX = -this.ballX;
-                this.ballTY = this.ballY;
-            });
-        }, */
         ball(rect){
             this.showBall = true;
             this.$nextTick(()=>{
@@ -485,6 +504,10 @@ export default{
                     top:-.64rem;
                     left:.213333rem
                 }
+                
+            }
+            .yellowCarWrap{
+                background: #ffe200;
             }
             .carActive{
                 animation: car .2s linear;
@@ -544,6 +567,5 @@ export default{
             transition: transform .6s cubic-bezier(0.12,-0.31, 0.56,-0.32);
         }
     }
-    
 }
 </style>
