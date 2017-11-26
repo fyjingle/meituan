@@ -28,7 +28,6 @@ export default{
     props:["seller","food","car","add",'name'],
     data(){
         return {
-            showAdd:"",
             showCar:"",
             
         }
@@ -61,7 +60,6 @@ export default{
     },
     methods:{
         initButton(){
-            this.showAdd = this.add;
             this.showCar = this.car;
         },
         addToCar(event){
