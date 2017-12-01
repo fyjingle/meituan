@@ -226,13 +226,14 @@ export default{
                 this.ballY = (clientY - rect.y - rect.height/2);
                 this.ballTX = -this.ballX;
                 this.ballTY = this.ballY;
+
+
             });
         },
         ballTransition(){
             this.carTransitionOpen = true;
             this.showBall = false;
             this.ballX = this.ballTX = this.ballY = this.ballTY = this.constX = this.constY = "0";
-            
         },
         carTransition(){
             this.carTransitionOpen = false;
@@ -242,6 +243,7 @@ export default{
             this.$refs.ball.addEventListener("transitionend",this.ballTransition,false);
             this.$refs.carWrap.addEventListener("webkitAnimationEnd",this.carTransition,false);
             this.$refs.carWrap.addEventListener("animationEnd",this.carTransition,false);
+            
         },
         showSpecificationShow(food){
             this.specificationShow = true;
