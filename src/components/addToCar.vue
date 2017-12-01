@@ -25,11 +25,10 @@ import {
 import { mapGetters } from 'vuex'
 export default{
     name:"addToCar",
-    props:["seller","food","car","add",'name'],
+    props:["seller","food","car","add",'name','checkedFood'],
     data(){
         return {
             showCar:"",
-            
         }
     },
     computed:{
@@ -45,22 +44,38 @@ export default{
             if(this.foodID[seller][this.food.id]){
                 index = this.foodID[seller][this.food.id].index;
             }
+            if(this.car && !this.foodCount[index])
+                this.showCar = true
             return this.foodCount[index];
         }
-    },  
+    },
+    watch:{
+        checkedFood:function(newValue,oldValue){
+            if(newValue){
+                this.food.seller = this.seller;
+                let seller = this.sellerID[this.seller];
+                let index = -1;
+                if(this.foodID[seller][this.checkedFood.id]){
+                    index = this.foodID[seller][this.checkedFood.id].index;
+                }
+                if(this.foodCount[index] > 0){
+                    this.showCar = false;
+                }else{
+                    this.showCar = true;
+                }
+            }else{
+                this.showCar = false;
+            }
+        }
+    },
     mounted(){
         this.initButton();
-        /* this.food.seller = this.seller;
-        let seller = this.sellerID[this.seller];
-        if(this.foodID[seller][this.food.id]){
-            let index = this.foodID[seller][this.food.id].index;
-            this.count = this.foodCount[index];
-            this.showReduce = this.foodCount[index] > 0 ;
-        } */
     },
     methods:{
         initButton(){
-            this.showCar = this.car;
+            if(this.car){
+                this.showCar = this.count ? false : true;
+            }
         },
         addToCar(event){
             this.$emit("ball",event.target.getBoundingClientRect());
@@ -70,16 +85,11 @@ export default{
             this.$store.commit(ADD,this.food);
             if(this.showCar)
                 this.showCar = false;
-            //this.count++;
-            /* this.showReduce = true; */
         },
         reduce(){
             this.food.seller = this.seller;
             this.food.self = this;
             this.$store.commit(REDUCE,this.food);
-            //this.count--;
-            /* if(this.count == 0)
-                this.showReduce = false; */
         },
         hideCar(event){
             this.addToCar(event);

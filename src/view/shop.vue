@@ -79,13 +79,15 @@
                 </div>
             </div>
         </div>
-        <specification 
-            :seller="merchantInfo.poi_info.id"
-            :food="specificationContent"
-            @ball="ball" 
-            @close="closeSpecification"
-            v-if="specificationShow">
-        </specification>
+        <transition name="telescopic">
+            <specification 
+                :seller="merchantInfo.poi_info.id"
+                :food="specificationContent"
+                @ball="ball" 
+                @close="closeSpecification"
+                v-if="specificationShow">
+            </specification>
+        </transition>
         <carDetail 
             v-if="carDetailFlag"
             :seller="merchantInfo.poi_info.id"
@@ -477,6 +479,15 @@ export default{
     }
     .stopScroll{
         /* pointer-events: none; */
+    }
+
+    .telescopic-enter-active, .telescopic-leave-active {
+        transition: all .5s;
+        transform:scale(1);
+    }
+    .telescopic-enter, .telescopic-leave-to{
+        opacity: 0;
+        transform:scale(0);
     }
     .shoppingCart{
         width: 100%;
