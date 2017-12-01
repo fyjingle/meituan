@@ -19,7 +19,7 @@
             <div class="footer">
                 <span class="price">￥{{food.skus[checked].price}}</span>
                 <span class="description">
-                    (<span>food.skus[checked].spec</span>)
+                    (<span>{{food.skus[checked].spec}}</span>)
                 </span>
                 <span class="add">
                     <addToCar 
@@ -30,6 +30,7 @@
                         :car="true"
                         :add="false"
                         :name="food.skus[checked].spec"
+                        :checkedFood="food.skus[checked]"
                     ></addToCar>
                 </span>
             </div>
@@ -45,10 +46,13 @@ export default{
         return {
             foodChecked:"",
             foodCheckedName:"",
-            checked:0
+            checked:0,
         }
     },
     mounted(){
+        this.$nextTick(()=>{
+            this.test = true;
+        });
     },
     components:{
         addToCar
@@ -134,6 +138,7 @@ export default{
                         width: 1.5rem;
                         overflow: hidden;
                         text-overflow: ellipsis;
+                        white-space: nowrap;
                         vertical-align: top;
                     }
                     
