@@ -5,6 +5,8 @@ import index from "../view/index.vue"
 import order from "../view/order.vue"
 import home from "../view/home.vue"
 import shop from "../view/shop.vue"
+import orderDishes from "../view/orderDishes.vue"
+import evaluation from "../view/evaluation.vue"
 
 Vue.use(Router)
 
@@ -16,9 +18,9 @@ export default new Router({
       name:"main",
       component:main,
       children:[{
-        path:"index",
-        name:"index",
-        component:index
+          path:"index",
+          name:"index",
+          component:index
         },
         {
           path:"order",
@@ -35,7 +37,18 @@ export default new Router({
     {
       path:"/shop",
       component:shop,
-      component:shop
+      component:shop,
+      children:[{
+        path:"orderDishes",
+        name:"orderDishes",
+        component:orderDishes
+      },
+      {
+        path:"evaluation",
+        name:"evaluation",
+        component:evaluation
+      }
+      ]
     },
     {
       path: '/',
